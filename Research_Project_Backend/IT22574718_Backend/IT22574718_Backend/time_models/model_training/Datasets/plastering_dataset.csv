@@ -1,0 +1,3001 @@
+wall_area_m2,material,location,floors,labor_count,duration_days
+207.09,Gypsum,Internal,1,5,3
+424.47,Gypsum,Internal,3,7,6
+774.88,Cement Sand,Both,2,7,20
+34.01,Gypsum,Internal,2,5,1
+4361.58,Cement Sand,Both,5,12,85
+137.46,Cement Sand,External,1,10,2
+747.97,Cement Sand,Internal,1,10,9
+355.38,Cement Sand,Both,1,18,3
+4580.68,Cement Sand,Internal,2,3,210
+30.96,Cement Sand,Internal,4,1,5
+1425.81,Gypsum,Both,2,4,44
+129.82,Cement Sand,Both,1,11,2
+248.95,Cement Sand,Both,1,3,14
+36.31,Gypsum,Internal,3,15,1
+4626.68,Cement Sand,Both,1,14,55
+346.72,Gypsum,Internal,1,7,4
+694.26,Gypsum,Both,2,6,14
+102.89,Cement Sand,External,1,2,8
+72.61,Cement Sand,External,3,13,1
+875.82,Gypsum,External,1,12,8
+625.43,Cement Sand,External,3,9,13
+387.8,Cement Sand,Internal,2,2,27
+4190.69,Cement Sand,Both,1,7,100
+1634.41,Cement Sand,Internal,1,4,51
+74.15,Gypsum,Internal,1,3,2
+96.37,Cement Sand,Internal,2,13,1
+720.02,Cement Sand,External,2,5,25
+786.66,Cement Sand,Both,1,10,13
+776.84,Gypsum,Internal,2,8,9
+669.24,Cement Sand,Internal,1,9,9
+689.94,Gypsum,Internal,2,3,21
+379.78,Cement Sand,External,2,6,11
+51.34,Gypsum,Internal,1,4,1
+454.59,Gypsum,Internal,4,10,5
+198.89,Gypsum,Both,5,10,3
+296.48,Gypsum,Both,1,1,33
+274.26,Cement Sand,Internal,8,3,19
+1560,Cement Sand,Internal,2,15,14
+25.42,Gypsum,Both,1,6,1
+267.51,Cement Sand,Internal,2,5,7
+3462.73,Cement Sand,External,4,10,70
+1270.4,Gypsum,External,1,8,17
+91.59,Cement Sand,External,1,2,7
+120.75,Cement Sand,External,4,13,2
+170.77,Cement Sand,External,1,10,3
+588.22,Gypsum,Both,2,20,4
+33.16,Cement Sand,Both,2,9,1
+37.7,Gypsum,Internal,3,14,1
+788.83,Gypsum,Internal,2,16,5
+1065.23,Cement Sand,Internal,3,14,11
+78.05,Cement Sand,Internal,1,9,1
+140.83,Cement Sand,External,4,15,2
+1308.45,Cement Sand,External,3,8,31
+195.79,Cement Sand,External,2,15,2
+94.78,Gypsum,Internal,2,11,1
+1013.64,Cement Sand,External,1,5,32
+116.89,Cement Sand,External,2,4,5
+41.79,Cement Sand,External,1,3,2
+500.73,Cement Sand,Internal,1,13,5
+188.62,Gypsum,Both,1,17,1
+45.91,Cement Sand,Internal,1,5,1
+495.67,Cement Sand,External,3,3,31
+84.95,Gypsum,Internal,2,8,1
+105.05,Cement Sand,External,1,2,8
+1236.24,Gypsum,Internal,3,3,41
+20.41,Cement Sand,External,2,6,1
+302.74,Gypsum,Internal,3,6,5
+773.17,Gypsum,Internal,1,2,32
+335.87,Gypsum,Internal,1,2,14
+1941.39,Gypsum,External,4,8,33
+90.29,Cement Sand,Both,5,9,2
+491.75,Cement Sand,External,2,10,8
+59.38,Gypsum,Both,9,10,1
+43.76,Cement Sand,Both,1,1,7
+169.23,Cement Sand,Both,1,7,4
+36.77,Cement Sand,Internal,1,16,1
+294.44,Cement Sand,External,3,10,6
+349.87,Gypsum,Internal,4,7,5
+209.3,Cement Sand,Both,2,13,3
+69.19,Cement Sand,Internal,9,10,2
+310.18,Gypsum,Internal,1,2,13
+1120.88,Cement Sand,Internal,2,8,19
+452.69,Gypsum,Internal,3,6,8
+207.96,Gypsum,External,2,10,2
+683.91,Gypsum,Internal,4,10,7
+788.89,Gypsum,Internal,1,9,7
+78.17,Cement Sand,Both,2,10,1
+403.75,Cement Sand,Both,2,20,4
+1974.59,Cement Sand,External,1,4,77
+774.99,Gypsum,External,2,7,13
+1581.4,Cement Sand,Internal,2,13,17
+2357.27,Gypsum,Internal,4,1,255
+125.31,Cement Sand,Internal,1,10,2
+321.26,Gypsum,Internal,1,12,2
+4711.96,Cement Sand,Internal,2,4,162
+2085.51,Gypsum,External,7,7,50
+599.73,Cement Sand,Internal,1,1,75
+1005.31,Cement Sand,External,5,15,15
+89.41,Cement Sand,Internal,1,10,1
+681.73,Cement Sand,External,1,12,9
+540.37,Gypsum,Both,1,6,10
+2272.53,Gypsum,External,1,7,34
+147.93,Cement Sand,Internal,1,4,5
+142.38,Gypsum,External,2,3,5
+96.63,Gypsum,External,1,2,5
+381.83,Cement Sand,External,9,17,6
+2260.61,Cement Sand,Internal,1,12,24
+335.72,Gypsum,External,6,9,6
+2193.98,Gypsum,Internal,6,7,39
+584.88,Cement Sand,Internal,1,3,24
+490.71,Gypsum,Internal,3,6,8
+2523.69,Gypsum,Internal,1,5,42
+956.9,Gypsum,Internal,1,16,5
+652.48,Cement Sand,Internal,3,1,98
+1078.74,Cement Sand,Internal,2,10,15
+1912.72,Cement Sand,External,2,9,37
+1948.87,Cement Sand,Internal,2,2,134
+154.88,Cement Sand,Internal,3,10,2
+821.27,Cement Sand,Internal,2,4,28
+2225.04,Cement Sand,External,1,14,25
+79.21,Gypsum,Internal,2,2,4
+595.7,Cement Sand,Internal,7,3,40
+165.04,Cement Sand,Both,10,10,5
+2074.43,Gypsum,Both,3,9,31
+166.08,Gypsum,Both,2,11,2
+36.98,Cement Sand,External,1,11,1
+4385.44,Cement Sand,Internal,1,2,274
+88.88,Gypsum,External,1,7,1
+321.66,Gypsum,Both,2,9,4
+2164.44,Cement Sand,External,6,6,85
+79.72,Cement Sand,Both,2,10,1
+1987.54,Gypsum,External,1,3,69
+93.34,Cement Sand,External,2,5,3
+3099.94,Gypsum,Internal,1,4,65
+759.56,Gypsum,Internal,3,6,13
+217.28,Gypsum,Both,2,3,9
+598.26,Gypsum,External,1,15,4
+785.67,Gypsum,Both,1,12,7
+1018.69,Gypsum,Both,3,8,17
+2003.2,Gypsum,Both,6,3,111
+464.97,Gypsum,Internal,1,1,39
+528.04,Gypsum,Internal,2,3,16
+768.55,Cement Sand,Internal,2,6,18
+4953.49,Gypsum,Both,2,9,67
+112.07,Cement Sand,External,2,6,3
+1495.22,Gypsum,Both,1,15,11
+1650.71,Gypsum,Internal,3,16,10
+43.34,Cement Sand,Internal,1,2,3
+598.22,Gypsum,External,6,13,7
+50.93,Cement Sand,Internal,2,5,1
+1435.15,Gypsum,External,2,5,33
+133,Gypsum,External,6,11,2
+773.91,Cement Sand,Internal,1,12,8
+133.92,Cement Sand,Internal,1,5,3
+1689.14,Cement Sand,External,3,11,29
+127.1,Cement Sand,External,2,8,3
+78.27,Cement Sand,Both,4,5,3
+2103.93,Gypsum,Internal,7,12,23
+4770.34,Cement Sand,Internal,2,6,109
+728.15,Gypsum,Internal,4,6,13
+648.73,Cement Sand,Both,2,10,12
+1671.33,Cement Sand,Internal,1,4,52
+938.01,Gypsum,Both,4,10,14
+4948.11,Cement Sand,Internal,1,13,48
+155.71,Gypsum,Internal,3,9,2
+673.24,Cement Sand,Both,1,4,28
+23,Gypsum,Internal,2,7,1
+3973.22,Gypsum,Internal,2,10,36
+2373.4,Gypsum,Internal,1,3,66
+3098.18,Cement Sand,External,2,8,67
+674.02,Cement Sand,Internal,2,7,13
+578.2,Gypsum,Both,2,2,35
+286.01,Cement Sand,Internal,2,8,5
+124.12,Gypsum,External,2,9,2
+2494.5,Cement Sand,Internal,1,14,22
+38.85,Cement Sand,Both,4,19,1
+3209.52,Gypsum,Internal,5,9,42
+184.93,Cement Sand,External,1,8,4
+687.8,Gypsum,Internal,1,3,19
+35.79,Gypsum,Internal,2,11,1
+164.19,Cement Sand,External,2,3,9
+156.69,Cement Sand,External,4,8,4
+509.49,Cement Sand,Internal,1,20,3
+89.93,Gypsum,Internal,2,3,3
+110.17,Cement Sand,Internal,2,1,15
+109.57,Cement Sand,Both,2,5,4
+64.47,Cement Sand,Both,1,5,2
+1502.11,Cement Sand,Both,3,4,75
+749.86,Cement Sand,Internal,5,18,7
+26.95,Cement Sand,Internal,1,14,1
+147.76,Cement Sand,Internal,2,1,20
+3605.64,Cement Sand,Internal,1,15,30
+146.31,Gypsum,External,1,9,2
+83.57,Cement Sand,External,1,5,3
+2012.18,Gypsum,Internal,2,9,20
+771.89,Cement Sand,Both,2,5,28
+1153.09,Cement Sand,Internal,5,6,34
+270.54,Gypsum,Internal,3,19,1
+108.24,Cement Sand,External,4,14,2
+4676.58,Cement Sand,Internal,1,9,65
+1336.04,Cement Sand,Internal,3,18,11
+372.26,Cement Sand,External,5,9,9
+44,Cement Sand,External,1,1,7
+667.73,Gypsum,External,5,17,6
+23.98,Cement Sand,External,1,6,1
+888.08,Cement Sand,External,3,6,28
+933.01,Cement Sand,Both,5,4,54
+1995.08,Cement Sand,Both,7,10,53
+2473.62,Gypsum,Internal,1,8,26
+2517.99,Cement Sand,Internal,6,13,36
+389.6,Gypsum,Both,4,4,14
+2410.51,Cement Sand,Both,2,8,55
+706.43,Cement Sand,Both,3,5,28
+37.46,Cement Sand,Internal,7,5,1
+797.61,Gypsum,Internal,2,7,10
+880.34,Cement Sand,Internal,3,4,33
+183.41,Cement Sand,Internal,4,8,4
+1157.43,Cement Sand,External,1,12,15
+1149.34,Cement Sand,External,1,10,18
+2321.21,Gypsum,Internal,1,9,21
+727.78,Cement Sand,Both,2,9,15
+42.66,Gypsum,External,3,8,1
+27.52,Gypsum,External,7,3,2
+560.37,Cement Sand,Both,1,1,93
+246.59,Cement Sand,Internal,3,6,6
+2212.51,Cement Sand,External,8,11,53
+1970.17,Gypsum,Both,5,2,153
+156.76,Gypsum,External,4,1,21
+74.73,Cement Sand,External,2,15,1
+730.28,Cement Sand,Internal,8,2,78
+411.41,Cement Sand,External,1,2,32
+770.01,Cement Sand,Internal,2,4,26
+125.04,Gypsum,External,6,7,3
+367,Gypsum,Internal,2,5,7
+2730.69,Cement Sand,External,4,7,79
+1904.21,Cement Sand,External,2,3,109
+128.08,Cement Sand,Internal,1,2,8
+916.2,Cement Sand,Both,2,10,17
+1781.9,Gypsum,Internal,2,9,18
+577.72,Cement Sand,External,2,20,5
+1853.35,Gypsum,Both,2,12,19
+56.26,Cement Sand,Both,4,3,4
+1895.35,Gypsum,Internal,1,11,14
+4387,Gypsum,Internal,3,15,29
+3358.53,Cement Sand,Internal,1,7,60
+1450.91,Cement Sand,External,1,12,19
+157.12,Gypsum,External,1,10,2
+1500.14,Gypsum,Internal,6,9,21
+1764.2,Cement Sand,Internal,1,4,55
+70.56,Gypsum,Internal,1,1,6
+154.49,Cement Sand,External,3,7,4
+517.26,Gypsum,External,4,3,23
+669.36,Cement Sand,Both,6,9,19
+610.31,Cement Sand,External,2,5,21
+1661.44,Cement Sand,Internal,3,11,23
+86.31,Cement Sand,Both,1,6,2
+345.23,Cement Sand,External,2,3,20
+105.15,Cement Sand,Internal,1,14,1
+1746.95,Gypsum,External,9,13,25
+337.45,Cement Sand,External,1,1,53
+121.03,Cement Sand,External,1,2,9
+761.86,Cement Sand,Both,2,17,8
+38.46,Cement Sand,Internal,2,15,1
+23.14,Cement Sand,Both,1,9,1
+255.63,Cement Sand,Internal,1,10,3
+382.65,Cement Sand,External,1,8,7
+178.44,Gypsum,Internal,3,11,2
+4751.73,Gypsum,Internal,3,4,119
+30.28,Cement Sand,External,2,6,1
+63.08,Cement Sand,Internal,2,7,1
+155.8,Cement Sand,Both,2,9,3
+2324.42,Cement Sand,Internal,1,3,97
+38.17,Cement Sand,External,1,13,1
+633.65,Cement Sand,Internal,1,13,6
+733.2,Cement Sand,Both,7,8,24
+112.87,Gypsum,Internal,2,5,2
+3931.58,Cement Sand,External,9,5,221
+2736.58,Cement Sand,External,1,3,143
+197.9,Cement Sand,External,2,6,6
+4382.4,Gypsum,External,8,2,388
+533,Gypsum,Internal,1,18,2
+652.36,Cement Sand,Internal,3,13,8
+1014.18,Cement Sand,External,1,4,40
+271.06,Gypsum,Both,3,10,4
+1591.19,Gypsum,Internal,3,5,32
+907.29,Cement Sand,Internal,5,4,40
+197.34,Gypsum,Internal,3,4,5
+372.14,Cement Sand,Both,1,11,6
+642.96,Cement Sand,Internal,1,4,20
+20.92,Cement Sand,External,2,6,1
+580.69,Cement Sand,Internal,3,3,29
+1704.41,Cement Sand,Both,8,16,30
+276.37,Cement Sand,Internal,4,3,15
+903.6,Gypsum,External,3,14,8
+50.85,Cement Sand,Both,1,18,1
+566.1,Cement Sand,Internal,1,9,8
+168.53,Gypsum,External,2,3,6
+1936.56,Gypsum,Internal,2,6,30
+56.87,Cement Sand,Internal,3,6,1
+617.67,Gypsum,Both,1,6,11
+2336.71,Cement Sand,External,5,1,511
+337.14,Gypsum,Internal,1,8,4
+69.77,Gypsum,Internal,2,3,2
+170.54,Cement Sand,Both,3,12,3
+51.2,Gypsum,Both,3,5,1
+4549.71,Cement Sand,Internal,3,17,40
+87.24,Cement Sand,Both,1,10,1
+2281.12,Cement Sand,Internal,3,10,34
+189.03,Cement Sand,External,1,7,4
+2488.14,Gypsum,Internal,1,13,16
+192.32,Cement Sand,Internal,4,14,2
+546.79,Gypsum,Both,1,1,61
+196.79,Cement Sand,Both,3,3,13
+65.93,Gypsum,Both,1,13,1
+410.37,Cement Sand,Internal,1,7,7
+31.24,Gypsum,Both,3,1,4
+626.28,Cement Sand,Both,1,8,13
+51.01,Cement Sand,External,1,15,1
+2098.33,Cement Sand,Internal,1,10,26
+115.68,Gypsum,External,3,1,14
+56.52,Gypsum,Internal,4,5,1
+292.25,Cement Sand,Internal,2,9,4
+93.19,Gypsum,Internal,3,7,1
+239.81,Gypsum,Internal,1,2,10
+82.37,Cement Sand,External,2,7,2
+1315.37,Cement Sand,Both,1,8,27
+361.62,Cement Sand,Both,1,4,15
+3872.6,Gypsum,External,1,6,67
+1149.94,Cement Sand,Internal,4,7,27
+660.77,Cement Sand,Both,1,4,28
+1387.04,Cement Sand,Internal,5,1,243
+887.2,Cement Sand,Both,1,13,11
+2454.9,Cement Sand,External,3,6,77
+341.32,Gypsum,Internal,3,12,3
+202.27,Cement Sand,Internal,1,2,13
+63.03,Cement Sand,Internal,5,13,1
+953.36,Gypsum,Internal,2,11,8
+31.83,Gypsum,External,4,10,1
+135.58,Cement Sand,External,3,8,3
+24.33,Gypsum,Both,4,8,1
+524.31,Gypsum,Both,1,3,19
+499.3,Cement Sand,External,6,15,8
+1393.89,Gypsum,External,2,16,10
+70.28,Gypsum,Internal,2,12,1
+3897.12,Cement Sand,External,2,18,37
+33.59,Gypsum,External,3,15,1
+3105.57,Gypsum,Both,1,18,19
+149.68,Cement Sand,Internal,1,2,9
+149.34,Cement Sand,Internal,1,18,1
+2472.89,Gypsum,Both,1,7,39
+1905.9,Gypsum,Internal,2,1,175
+187.63,Cement Sand,Internal,9,4,11
+1085.01,Cement Sand,External,4,3,73
+522.17,Cement Sand,Internal,1,4,16
+130.66,Cement Sand,Internal,2,7,3
+686.07,Cement Sand,External,2,10,12
+4411.14,Cement Sand,Both,1,14,53
+141.29,Cement Sand,Both,1,5,5
+208.96,Gypsum,Internal,1,5,3
+1619.78,Gypsum,External,5,15,16
+51.04,Cement Sand,External,2,6,1
+628.41,Cement Sand,External,1,8,12
+718.72,Cement Sand,Internal,5,14,9
+123.39,Gypsum,External,6,6,3
+667.43,Cement Sand,Internal,2,12,8
+707.41,Cement Sand,External,3,6,22
+114.32,Cement Sand,Internal,6,6,4
+795.86,Cement Sand,External,5,9,19
+1998.84,Gypsum,Internal,3,14,14
+186.47,Gypsum,Internal,1,7,2
+1768.21,Cement Sand,Both,6,15,29
+1888.22,Cement Sand,Both,2,3,115
+137.84,Cement Sand,Internal,2,2,9
+491.04,Cement Sand,Internal,2,2,34
+659.86,Gypsum,Internal,1,1,55
+2429.35,Cement Sand,External,2,4,104
+2278.35,Cement Sand,Internal,1,7,41
+3119.4,Cement Sand,Internal,4,5,101
+336.05,Cement Sand,Internal,3,1,50
+402.95,Cement Sand,Both,2,5,15
+4176.71,Cement Sand,External,1,8,82
+172.97,Gypsum,Internal,9,1,26
+465.93,Cement Sand,Both,2,8,11
+579.67,Gypsum,Both,1,7,9
+385.92,Cement Sand,Internal,1,12,4
+62.6,Cement Sand,External,1,9,1
+454.89,Gypsum,Internal,2,13,3
+2060.63,Cement Sand,Internal,1,14,18
+823.61,Gypsum,Internal,1,10,7
+208.05,Cement Sand,External,2,4,9
+438.49,Cement Sand,Both,1,1,73
+1073.76,Cement Sand,Internal,1,4,34
+360.38,Gypsum,External,6,15,4
+1458.09,Cement Sand,Internal,7,6,49
+41.77,Gypsum,Internal,2,8,1
+2515.88,Cement Sand,External,2,7,62
+292.14,Cement Sand,Internal,1,1,37
+783.63,Gypsum,External,6,10,12
+1623.72,Cement Sand,Internal,5,9,32
+1492.84,Gypsum,Both,5,8,29
+96.81,Cement Sand,External,2,6,3
+1557.9,Cement Sand,Internal,3,1,234
+113.64,Gypsum,External,1,1,12
+199.64,Gypsum,Internal,2,7,3
+1231.56,Cement Sand,Internal,1,14,11
+888.26,Gypsum,Internal,8,10,13
+469.22,Gypsum,Internal,5,13,4
+124.87,Cement Sand,Internal,2,13,1
+1983,Gypsum,Both,2,4,61
+103.26,Cement Sand,Both,4,2,11
+122.56,Cement Sand,External,2,3,7
+179.56,Cement Sand,Both,1,1,30
+74.66,Cement Sand,Internal,2,5,2
+81.95,Cement Sand,Internal,1,15,1
+697.33,Gypsum,Internal,1,7,8
+655.02,Cement Sand,Both,7,1,175
+526.6,Gypsum,Both,3,7,10
+596.05,Cement Sand,External,1,7,13
+183.37,Gypsum,External,2,13,2
+1596.25,Gypsum,Internal,2,10,15
+94.2,Gypsum,Internal,3,9,1
+539.95,Cement Sand,External,2,14,7
+75.35,Gypsum,External,1,5,2
+4971.09,Cement Sand,Both,1,4,207
+80.11,Cement Sand,Internal,2,14,1
+492.72,Gypsum,External,2,15,4
+619.32,Cement Sand,Internal,3,6,15
+174.91,Cement Sand,Internal,1,2,11
+44.84,Cement Sand,Internal,1,7,1
+362.48,Gypsum,Internal,2,9,4
+2202.93,Cement Sand,External,2,1,379
+115.19,Cement Sand,Internal,1,1,14
+750.32,Gypsum,Internal,2,2,34
+73.74,Cement Sand,External,2,3,4
+70.45,Cement Sand,Both,2,11,1
+187.4,Cement Sand,Internal,4,10,3
+511.59,Cement Sand,External,4,9,12
+624.53,Cement Sand,Both,1,8,13
+45.91,Cement Sand,External,5,7,1
+195.44,Gypsum,Internal,4,8,3
+1063.34,Cement Sand,Both,3,15,14
+352.99,Cement Sand,Both,3,1,71
+62.82,Cement Sand,Internal,4,10,1
+2101.3,Cement Sand,External,5,6,77
+3217.26,Gypsum,Internal,5,3,125
+2906.79,Gypsum,Both,3,4,97
+157.57,Gypsum,External,2,12,2
+591.44,Gypsum,Both,2,7,10
+784.51,Cement Sand,Internal,2,2,54
+390.29,Cement Sand,External,3,9,8
+262.86,Cement Sand,Internal,1,10,3
+366.5,Gypsum,Internal,1,4,8
+142.44,Gypsum,External,3,3,6
+225.57,Cement Sand,External,1,15,2
+735.66,Gypsum,External,1,13,6
+1267.07,Cement Sand,Both,1,1,211
+1830.34,Cement Sand,Internal,7,13,28
+329.01,Cement Sand,Internal,1,13,3
+350.02,Cement Sand,Internal,1,11,4
+144.98,Cement Sand,Both,3,6,5
+392.03,Cement Sand,Both,3,12,7
+1897.69,Cement Sand,Internal,3,9,32
+1925.34,Cement Sand,Both,2,4,88
+111.15,Cement Sand,Internal,4,3,6
+4560,Cement Sand,External,1,1,712
+148.97,Gypsum,Internal,6,7,3
+188.17,Cement Sand,External,2,5,6
+2363.19,Cement Sand,Internal,2,5,65
+706.57,Gypsum,Internal,1,10,6
+401.83,Cement Sand,Both,5,3,31
+287.49,Cement Sand,External,6,13,5
+516.79,Cement Sand,Internal,1,2,32
+60.32,Gypsum,External,2,7,1
+385.14,Cement Sand,Internal,2,6,9
+728.39,Gypsum,Internal,1,7,9
+626.8,Gypsum,External,1,14,5
+27.51,Cement Sand,Internal,1,9,1
+198.42,Gypsum,Internal,2,6,3
+496.01,Cement Sand,Internal,1,11,6
+415.95,Cement Sand,Internal,4,8,8
+1674.99,Cement Sand,Internal,8,3,119
+478.27,Gypsum,Internal,2,4,11
+1187.73,Cement Sand,Both,2,7,31
+171.56,Gypsum,External,3,4,5
+366.09,Gypsum,Both,1,2,20
+209.59,Gypsum,Internal,2,2,10
+406.5,Gypsum,Internal,1,3,11
+336.96,Cement Sand,Internal,1,14,3
+176.24,Gypsum,Internal,4,8,2
+1420.48,Cement Sand,Internal,2,12,16
+1349.73,Cement Sand,Internal,2,5,37
+227.09,Cement Sand,Both,2,13,3
+77.66,Cement Sand,Internal,1,6,2
+132.02,Cement Sand,Internal,2,3,6
+940.57,Cement Sand,Internal,3,10,14
+387.65,Gypsum,Both,1,13,3
+4037.04,Gypsum,Internal,1,6,56
+2614.95,Cement Sand,External,2,6,75
+125.67,Gypsum,Both,1,12,1
+627.95,Cement Sand,Both,1,6,17
+3407.64,Gypsum,Both,1,11,34
+651.38,Gypsum,Both,1,4,18
+704.06,Cement Sand,Internal,2,8,12
+782.91,Cement Sand,Internal,1,3,33
+3895.11,Cement Sand,Internal,1,18,27
+185.87,Cement Sand,Internal,3,3,9
+620.54,Cement Sand,Internal,2,5,17
+612.97,Gypsum,Internal,1,12,4
+352.01,Cement Sand,Internal,2,8,6
+4497.12,Cement Sand,Both,2,12,69
+120.4,Cement Sand,Internal,2,13,1
+226.29,Cement Sand,Internal,3,4,8
+1741.57,Cement Sand,Both,1,9,32
+664.16,Gypsum,Internal,3,1,66
+547.81,Gypsum,Internal,3,8,7
+1453.65,Cement Sand,Internal,3,8,27
+3843.76,Gypsum,Internal,1,4,80
+2121,Cement Sand,Internal,2,15,19
+3077.22,Gypsum,Internal,4,7,48
+1900.76,Gypsum,External,5,8,35
+180.74,Cement Sand,Both,4,2,20
+2486.92,Cement Sand,Internal,1,8,39
+238.79,Cement Sand,External,5,1,52
+2154.62,Cement Sand,Both,3,10,43
+567.12,Gypsum,External,1,5,12
+890.64,Cement Sand,External,5,3,65
+537.96,Cement Sand,Internal,1,2,34
+3563.3,Cement Sand,Internal,1,7,64
+996.4,Gypsum,External,10,8,25
+1443.61,Cement Sand,Internal,1,3,60
+914.32,Cement Sand,External,3,7,24
+735.48,Cement Sand,Internal,3,2,55
+2229.48,Gypsum,External,3,20,14
+1570.35,Cement Sand,Both,3,9,35
+92.99,Gypsum,External,2,11,1
+2311.17,Cement Sand,Both,1,15,26
+21.31,Cement Sand,External,4,1,4
+146.25,Cement Sand,External,3,13,2
+282.01,Cement Sand,Internal,3,7,6
+339.95,Cement Sand,Internal,3,5,10
+402.2,Cement Sand,Internal,4,6,11
+2390.6,Cement Sand,Internal,1,2,149
+2703.67,Cement Sand,Internal,1,7,48
+1085.13,Cement Sand,External,3,8,25
+373.67,Cement Sand,External,3,15,5
+612.1,Cement Sand,Internal,3,6,15
+2110.02,Cement Sand,Internal,4,14,24
+131.59,Cement Sand,Both,1,19,1
+34.02,Cement Sand,Both,1,2,3
+62.4,Gypsum,External,5,11,1
+253.32,Gypsum,Internal,1,6,4
+1969.51,Cement Sand,External,5,8,54
+61.33,Cement Sand,External,1,2,5
+312.82,Gypsum,Internal,3,13,2
+344.47,Gypsum,Internal,7,9,5
+380.95,Cement Sand,External,4,10,8
+141.2,Cement Sand,Internal,2,11,2
+1960.34,Gypsum,Internal,8,4,69
+1712.66,Gypsum,Internal,1,10,14
+4683.38,Cement Sand,Internal,2,13,50
+438.2,Cement Sand,External,2,7,11
+347.93,Gypsum,External,3,1,43
+68.94,Gypsum,External,6,6,2
+192.25,Cement Sand,External,6,15,3
+139.71,Gypsum,Internal,1,15,1
+82.65,Gypsum,External,4,20,1
+1268.77,Cement Sand,Internal,2,1,174
+454.98,Gypsum,Internal,4,12,4
+335.49,Gypsum,Internal,3,1,34
+1837.54,Cement Sand,Internal,1,4,57
+568.54,Cement Sand,Internal,3,5,17
+85.05,Cement Sand,Both,1,8,2
+651.81,Cement Sand,Internal,1,4,20
+2378.59,Cement Sand,External,1,2,186
+855.65,Cement Sand,Internal,1,5,21
+103.01,Gypsum,External,2,15,1
+637.18,Cement Sand,Both,2,5,23
+136.22,Gypsum,External,3,1,17
+827.7,Gypsum,Internal,2,9,8
+203.85,Gypsum,Internal,2,8,2
+472.29,Cement Sand,Internal,4,9,9
+893.69,Cement Sand,Both,1,4,37
+3483.84,Cement Sand,Internal,1,4,109
+120.56,Gypsum,Both,2,2,7
+783.37,Cement Sand,Internal,1,4,24
+1553.65,Cement Sand,External,1,20,12
+700.98,Cement Sand,Internal,2,13,7
+1750.01,Gypsum,Internal,2,5,32
+3644.76,Cement Sand,External,1,10,57
+181.62,Cement Sand,External,3,7,5
+94.88,Cement Sand,Internal,1,8,1
+370.35,Gypsum,Both,6,8,8
+650.78,Cement Sand,Both,2,10,12
+57.21,Cement Sand,Both,2,13,1
+151.56,Cement Sand,Internal,1,3,6
+570.18,Gypsum,Internal,2,3,17
+2269.58,Cement Sand,Both,5,7,76
+101.17,Gypsum,Both,2,9,1
+524.92,Cement Sand,Internal,2,3,24
+942.93,Cement Sand,Internal,1,2,59
+144.8,Cement Sand,Internal,1,8,2
+83.03,Gypsum,Internal,4,6,1
+268.23,Cement Sand,Both,1,13,3
+166.84,Cement Sand,External,2,6,5
+676.73,Gypsum,External,1,2,35
+71.31,Gypsum,Internal,3,6,1
+773.32,Gypsum,Internal,1,12,5
+688.23,Gypsum,Internal,2,6,11
+75.87,Gypsum,External,1,10,1
+1928.27,Gypsum,Internal,1,15,11
+49.94,Cement Sand,Internal,7,5,2
+235.37,Gypsum,Internal,1,17,1
+4185.64,Gypsum,Internal,9,8,78
+118.93,Cement Sand,Internal,4,8,2
+2336.7,Cement Sand,Both,2,20,21
+1525.85,Gypsum,Internal,1,7,18
+1791.08,Cement Sand,External,2,9,34
+116.47,Gypsum,External,2,2,7
+29,Cement Sand,Internal,5,3,2
+1474.3,Cement Sand,Internal,1,2,92
+2006.55,Gypsum,External,7,12,28
+1132.22,Gypsum,Internal,1,3,31
+2691.55,Cement Sand,Internal,1,13,26
+31.42,Cement Sand,Internal,2,14,1
+1184.75,Cement Sand,External,1,10,19
+307.03,Gypsum,Both,4,5,9
+56.95,Cement Sand,Both,2,8,1
+753.88,Cement Sand,Internal,2,3,35
+1454.06,Cement Sand,Internal,3,9,24
+104.7,Cement Sand,External,1,14,1
+1982.75,Cement Sand,External,2,8,43
+170.86,Gypsum,Internal,2,9,2
+4295.57,Gypsum,External,2,1,492
+255.09,Gypsum,External,8,13,3
+300.65,Cement Sand,Internal,4,7,7
+413.27,Cement Sand,Internal,1,15,3
+634.27,Gypsum,Internal,3,6,11
+204.62,Cement Sand,Internal,1,19,1
+1655.66,Cement Sand,Internal,1,5,41
+20.27,Cement Sand,External,3,17,1
+132.28,Gypsum,External,1,5,3
+595.61,Gypsum,External,2,16,4
+317.16,Gypsum,External,4,10,4
+732.68,Cement Sand,External,4,5,30
+1640.08,Cement Sand,Internal,2,20,11
+542.45,Gypsum,Internal,1,9,5
+343.49,Gypsum,Internal,5,10,4
+384.86,Cement Sand,Internal,4,5,13
+45.36,Cement Sand,Internal,1,6,1
+1727.33,Cement Sand,External,1,1,270
+134.02,Cement Sand,Both,1,2,11
+2210.09,Cement Sand,Internal,1,10,28
+77.15,Cement Sand,External,6,3,6
+909.67,Cement Sand,Internal,1,5,23
+56.92,Cement Sand,Internal,2,7,1
+515.37,Gypsum,Both,2,8,8
+309.67,Gypsum,External,3,1,39
+1026.89,Cement Sand,Both,2,11,17
+1071.07,Cement Sand,External,3,13,15
+130.08,Cement Sand,Both,8,9,4
+159.11,Gypsum,Internal,3,7,2
+509.78,Gypsum,Internal,1,13,3
+359.51,Gypsum,Internal,1,9,3
+4761.22,Cement Sand,External,2,10,82
+1828.51,Cement Sand,External,2,8,39
+1937.22,Cement Sand,Both,1,6,54
+315.39,Cement Sand,Internal,2,10,4
+1874,Cement Sand,External,6,1,439
+659.41,Gypsum,External,8,17,7
+4253.8,Cement Sand,External,3,2,399
+97.04,Cement Sand,Internal,2,7,2
+301.4,Gypsum,Internal,5,19,2
+548.36,Cement Sand,Internal,3,10,8
+91.94,Cement Sand,Both,1,6,3
+788.27,Cement Sand,Internal,2,3,36
+24.58,Cement Sand,External,1,9,1
+172.77,Cement Sand,Both,6,18,2
+781.27,Cement Sand,Both,4,1,169
+378.24,Cement Sand,Internal,1,4,12
+75.33,Cement Sand,External,2,17,1
+809.03,Cement Sand,External,1,4,32
+1356.98,Gypsum,Internal,2,3,41
+268.23,Gypsum,Both,1,9,3
+1104.17,Gypsum,External,1,3,38
+260.21,Gypsum,Internal,1,3,7
+41.11,Cement Sand,Internal,5,14,1
+763.63,Cement Sand,External,2,15,9
+27.61,Cement Sand,Internal,2,4,1
+99.47,Cement Sand,Internal,4,18,1
+97.83,Cement Sand,Internal,3,15,1
+1134.27,Cement Sand,External,1,15,12
+181.89,Cement Sand,Internal,1,9,3
+42.64,Cement Sand,Both,4,20,1
+153.48,Cement Sand,External,5,3,11
+3634.25,Cement Sand,Internal,1,3,151
+1827.02,Cement Sand,External,2,8,39
+683.4,Gypsum,External,2,4,20
+57.15,Cement Sand,External,3,19,1
+131.99,Gypsum,Internal,4,6,2
+113.06,Cement Sand,Both,1,12,2
+3568.89,Cement Sand,External,2,12,51
+54.87,Gypsum,External,3,7,1
+1755.1,Cement Sand,Both,1,8,37
+79.35,Gypsum,Internal,3,2,4
+131.36,Cement Sand,Internal,1,3,5
+801.6,Gypsum,External,1,4,21
+4330.95,Cement Sand,Both,1,7,103
+20.86,Gypsum,Internal,2,2,1
+1977.23,Gypsum,External,2,8,28
+153.33,Cement Sand,Both,1,5,5
+2463.69,Gypsum,Internal,1,3,68
+2396.44,Cement Sand,Internal,1,4,75
+991.77,Cement Sand,Internal,5,20,9
+1103.16,Cement Sand,Both,1,14,13
+1597.31,Gypsum,Internal,1,12,11
+2286.83,Cement Sand,Internal,3,16,21
+4768.87,Gypsum,External,1,15,33
+21.35,Gypsum,Internal,2,1,2
+714.72,Cement Sand,Both,1,8,15
+1222.31,Cement Sand,Internal,1,9,17
+174.12,Gypsum,Internal,2,13,1
+1928.91,Cement Sand,Internal,1,9,27
+231.96,Gypsum,Both,10,11,4
+28.94,Cement Sand,Internal,1,9,1
+321.2,Cement Sand,External,5,7,10
+53.45,Gypsum,Internal,1,9,1
+412.47,Cement Sand,Internal,1,8,6
+1428.36,Cement Sand,Internal,5,18,14
+1242.43,Gypsum,External,1,11,12
+71.41,Cement Sand,Both,3,4,4
+133.22,Cement Sand,Both,1,3,7
+755.83,Gypsum,Internal,3,1,76
+59,Gypsum,External,1,13,1
+432.17,Cement Sand,External,3,5,16
+1179.06,Gypsum,Internal,1,7,14
+2046.51,Gypsum,Internal,7,7,39
+153.6,Cement Sand,Internal,1,2,10
+356.47,Cement Sand,External,1,3,19
+177.23,Cement Sand,Internal,1,15,1
+138.03,Gypsum,Internal,6,8,2
+133.92,Cement Sand,Internal,1,2,8
+99.61,Cement Sand,External,2,7,2
+90.12,Cement Sand,Both,2,12,1
+1934.55,Cement Sand,External,1,8,38
+458.21,Cement Sand,Both,4,9,11
+1713.48,Gypsum,External,2,1,196
+359.59,Cement Sand,Internal,1,5,9
+2766.43,Cement Sand,Internal,10,6,110
+585.83,Cement Sand,Internal,2,16,5
+637.75,Cement Sand,Both,1,7,15
+1614.65,Cement Sand,External,8,9,48
+736.67,Cement Sand,Internal,1,7,13
+613.19,Cement Sand,External,2,12,9
+120.92,Gypsum,Internal,1,9,1
+1950.63,Cement Sand,Internal,1,9,27
+372.67,Gypsum,Internal,2,1,34
+1778.46,Gypsum,Both,1,3,66
+2335.4,Cement Sand,External,2,6,67
+74.83,Gypsum,Both,9,18,1
+2864.02,Cement Sand,External,4,7,83
+506.67,Cement Sand,External,1,10,8
+4064.74,Cement Sand,External,2,13,54
+97.17,Cement Sand,Both,1,1,16
+400.55,Cement Sand,Internal,1,3,17
+3463.87,Cement Sand,Internal,9,13,60
+394.76,Cement Sand,External,1,10,6
+511.47,Cement Sand,External,5,7,16
+4396.07,Gypsum,Both,2,8,67
+168.25,Cement Sand,Internal,1,3,7
+725.59,Cement Sand,Internal,1,3,30
+279.23,Gypsum,Internal,2,3,9
+865.25,Cement Sand,Both,4,1,187
+243.4,Gypsum,External,1,14,2
+272.01,Cement Sand,External,6,2,32
+760.42,Gypsum,External,2,4,22
+113.26,Cement Sand,Internal,5,3,7
+67.29,Gypsum,Internal,1,10,1
+235.48,Cement Sand,Both,1,2,20
+646.53,Cement Sand,Internal,6,15,8
+2191.72,Cement Sand,Internal,1,10,27
+130.97,Cement Sand,External,5,10,3
+25.65,Cement Sand,Internal,2,13,1
+2284.19,Cement Sand,External,3,6,71
+243.31,Cement Sand,Both,5,10,6
+52.05,Cement Sand,Internal,1,3,2
+380.71,Cement Sand,Internal,2,3,17
+138.7,Gypsum,Both,2,3,6
+1023.55,Gypsum,Internal,1,7,12
+788.37,Cement Sand,Internal,2,2,54
+172.99,Cement Sand,Both,1,9,3
+177.22,Gypsum,External,2,8,3
+1225.82,Cement Sand,Both,2,5,45
+636.14,Cement Sand,External,4,11,12
+135.55,Cement Sand,Both,3,7,4
+22.04,Gypsum,Both,3,1,3
+1478.42,Gypsum,External,3,15,12
+541.24,Cement Sand,Internal,7,14,8
+1769.16,Cement Sand,Internal,6,13,26
+384.42,Cement Sand,External,7,2,48
+1867.38,Cement Sand,Both,2,5,68
+2313.28,Gypsum,Internal,2,10,21
+337.79,Cement Sand,External,4,2,34
+2340.44,Gypsum,External,2,17,16
+69.86,Gypsum,Both,1,8,1
+560.02,Cement Sand,Both,4,3,40
+919.44,Gypsum,Both,2,7,16
+172,Cement Sand,Both,2,7,5
+29.07,Gypsum,External,2,16,1
+160.43,Gypsum,Internal,2,1,15
+1793.35,Gypsum,Internal,1,7,21
+52.6,Gypsum,Internal,1,4,1
+1984.32,Gypsum,Both,1,6,37
+884.55,Cement Sand,Both,2,1,162
+257.06,Gypsum,Internal,1,9,2
+4426.07,Cement Sand,Both,3,9,98
+347.27,Cement Sand,Internal,3,2,26
+1753.87,Cement Sand,Internal,2,9,27
+2091.65,Cement Sand,External,1,11,30
+2316.85,Gypsum,External,2,7,38
+94.76,Cement Sand,Internal,6,3,6
+164.75,Gypsum,Internal,1,1,14
+137.87,Cement Sand,Internal,4,8,3
+290.19,Cement Sand,Internal,3,15,3
+154.9,Gypsum,External,5,4,6
+133.97,Cement Sand,External,1,6,3
+534.05,Cement Sand,Internal,7,4,27
+143.66,Cement Sand,Both,6,15,2
+439.29,Cement Sand,Both,4,1,95
+89.87,Cement Sand,Internal,1,14,1
+931.3,Cement Sand,Internal,1,9,13
+760.36,Cement Sand,Both,2,5,28
+1482.05,Cement Sand,Both,1,5,49
+167.82,Cement Sand,Internal,4,5,5
+78.16,Gypsum,Both,6,8,2
+509.13,Cement Sand,External,1,13,6
+716.4,Cement Sand,External,2,9,14
+130.17,Cement Sand,Internal,2,4,4
+36.73,Cement Sand,Both,2,13,1
+142.19,Gypsum,External,1,12,1
+682.8,Cement Sand,External,1,5,21
+688.05,Cement Sand,Both,1,13,9
+504.74,Gypsum,Internal,2,1,46
+1854.81,Cement Sand,External,4,11,34
+70.67,Cement Sand,Both,3,1,14
+92.18,Gypsum,Both,7,10,2
+255.44,Cement Sand,External,1,10,4
+792.2,Cement Sand,External,1,4,31
+167.72,Cement Sand,Both,1,5,6
+114.28,Cement Sand,Internal,2,12,1
+350.42,Cement Sand,Internal,1,9,5
+140.67,Cement Sand,Internal,1,8,2
+183.76,Cement Sand,External,2,6,5
+2340.83,Cement Sand,Both,4,10,51
+2069.46,Gypsum,External,3,12,22
+123.52,Cement Sand,Both,1,10,2
+393.79,Cement Sand,Internal,1,6,8
+4347.04,Cement Sand,External,2,5,149
+539.56,Cement Sand,Both,3,6,18
+97.47,Cement Sand,Both,2,1,18
+3447.68,Cement Sand,Internal,3,10,52
+565.35,Gypsum,External,2,5,13
+1556.91,Cement Sand,Both,3,1,311
+641.55,Gypsum,Both,2,15,5
+111.04,Gypsum,Both,1,1,12
+21.07,Gypsum,Internal,1,10,1
+2107.52,Cement Sand,Both,1,9,39
+167.68,Cement Sand,Internal,3,5,5
+41.31,Cement Sand,External,3,3,3
+1665.19,Gypsum,Internal,1,1,139
+84.92,Cement Sand,External,2,6,2
+56.82,Cement Sand,External,1,7,1
+123.55,Cement Sand,Internal,2,4,4
+223.14,Cement Sand,Internal,1,11,3
+1746.47,Cement Sand,Both,4,8,47
+2339.11,Cement Sand,Internal,1,8,37
+249.27,Gypsum,Both,3,6,6
+360.84,Gypsum,Both,1,9,4
+1045.71,Cement Sand,External,1,10,16
+1161.97,Cement Sand,External,3,12,18
+117.53,Gypsum,External,1,5,2
+756.67,Cement Sand,Both,2,4,35
+109.79,Cement Sand,Both,4,4,6
+228.68,Cement Sand,Both,1,14,3
+324.77,Gypsum,External,2,3,12
+44.58,Cement Sand,Internal,9,4,3
+112.74,Cement Sand,External,1,2,9
+918.23,Cement Sand,External,1,15,10
+2477.63,Gypsum,Internal,2,13,17
+1649.61,Cement Sand,Internal,3,6,41
+82.77,Gypsum,Internal,1,12,1
+148.59,Gypsum,Both,1,9,2
+186.02,Cement Sand,Both,2,1,34
+151.27,Cement Sand,Internal,4,3,8
+749.68,Cement Sand,Internal,1,11,9
+520.45,Gypsum,Internal,2,10,5
+402.69,Gypsum,Internal,2,5,7
+2051.34,Gypsum,Internal,2,15,13
+3684.84,Cement Sand,Internal,4,3,200
+1017.2,Gypsum,External,5,10,15
+174.43,Cement Sand,Internal,6,2,16
+2362.59,Cement Sand,Both,5,11,50
+822.2,Cement Sand,External,4,12,14
+489.13,Cement Sand,Internal,1,6,10
+1054.16,Cement Sand,Internal,4,15,11
+642.77,Cement Sand,External,2,3,37
+1398.14,Cement Sand,Both,5,1,326
+1252.3,Gypsum,Both,1,14,10
+194.37,Cement Sand,Internal,1,13,2
+20.95,Cement Sand,Both,3,12,1
+735.8,Gypsum,External,3,5,18
+162.05,Gypsum,Both,1,4,5
+450.96,Cement Sand,Both,6,8,14
+89.07,Cement Sand,Both,4,5,4
+2341.32,Gypsum,External,2,4,67
+29.81,Cement Sand,External,1,9,1
+206.79,Cement Sand,External,3,2,19
+42.99,Gypsum,Internal,2,2,2
+2261.28,Cement Sand,External,2,14,28
+2490.06,Cement Sand,Internal,1,7,44
+4804.49,Gypsum,Internal,3,11,44
+413.2,Cement Sand,External,3,2,39
+119.51,Cement Sand,Internal,5,5,4
+2295.77,Cement Sand,Internal,2,2,158
+27.65,Cement Sand,Internal,1,10,1
+167.59,Cement Sand,Internal,5,4,7
+555.71,Gypsum,External,3,4,17
+2901.51,Gypsum,Both,1,4,81
+2067.24,Cement Sand,Internal,1,11,23
+119.14,Gypsum,Internal,3,14,1
+88.84,Cement Sand,Internal,3,7,2
+718.82,Cement Sand,Internal,2,1,99
+90.08,Gypsum,Internal,2,14,1
+1175.09,Gypsum,External,1,1,122
+21.23,Cement Sand,Both,1,3,1
+186.42,Gypsum,Internal,1,13,1
+2135.21,Gypsum,External,1,10,22
+402.82,Gypsum,External,2,13,4
+1152.56,Cement Sand,Both,2,4,53
+3784.92,Gypsum,Internal,1,9,35
+34.66,Cement Sand,Internal,2,10,1
+343.79,Gypsum,External,4,1,47
+611.27,Gypsum,Internal,1,1,51
+175.79,Cement Sand,Internal,9,10,4
+28.99,Gypsum,Internal,2,2,1
+37.41,Cement Sand,Internal,3,3,2
+416.24,Cement Sand,External,1,8,8
+71.04,Cement Sand,Both,1,9,1
+2308.1,Cement Sand,Internal,8,4,123
+137.39,Gypsum,Internal,9,13,2
+1664.22,Cement Sand,Internal,2,9,25
+1036.15,Gypsum,Internal,3,14,7
+645.75,Cement Sand,Internal,1,3,27
+2918.46,Gypsum,Internal,6,1,365
+162.22,Cement Sand,Internal,2,3,7
+4737.55,Cement Sand,Both,6,9,132
+758.7,Cement Sand,Both,1,5,25
+655.11,Cement Sand,Internal,1,6,14
+2274.29,Cement Sand,Internal,9,10,51
+1011.31,Cement Sand,Internal,1,13,10
+129.05,Gypsum,Internal,3,13,1
+42.75,Cement Sand,Internal,6,11,1
+177.66,Cement Sand,Both,3,12,3
+114.17,Gypsum,Both,1,8,2
+40.65,Cement Sand,Both,1,2,3
+138.57,Gypsum,Internal,1,7,2
+579.63,Cement Sand,Internal,1,4,18
+1877.47,Cement Sand,Internal,1,13,18
+297.27,Cement Sand,Internal,1,16,2
+483.45,Gypsum,Both,1,4,13
+2843.85,Cement Sand,Internal,1,12,30
+4156.58,Gypsum,Both,1,12,38
+4642.06,Cement Sand,Both,1,1,774
+83.8,Gypsum,External,4,12,1
+113.87,Cement Sand,External,3,7,3
+53.07,Cement Sand,Both,1,7,1
+176.23,Cement Sand,External,1,9,3
+229.76,Cement Sand,Internal,1,8,4
+163.62,Cement Sand,Internal,1,10,2
+172.46,Cement Sand,Both,1,5,6
+2346.91,Cement Sand,Internal,1,10,29
+667.43,Gypsum,Both,10,13,11
+1989.53,Gypsum,External,1,13,16
+3951.39,Cement Sand,External,1,12,51
+2265.16,Gypsum,External,1,6,39
+644.3,Cement Sand,External,6,9,17
+567.56,Cement Sand,Internal,3,2,43
+1121.21,Gypsum,Internal,4,4,30
+500.6,Cement Sand,Internal,2,5,14
+25.9,Cement Sand,Both,1,15,1
+300.42,Cement Sand,Internal,1,11,3
+80.89,Gypsum,Internal,1,7,1
+454.91,Gypsum,Internal,1,5,8
+667.53,Cement Sand,External,1,6,17
+134.32,Gypsum,Internal,1,13,1
+105.75,Cement Sand,Internal,1,3,4
+28.7,Cement Sand,Internal,3,18,1
+679.17,Cement Sand,Internal,1,5,17
+475.37,Cement Sand,External,3,4,22
+530.39,Cement Sand,Internal,2,3,24
+141.3,Cement Sand,External,3,2,13
+1168.51,Gypsum,Both,1,1,130
+1565.93,Cement Sand,Both,2,16,18
+791.71,Cement Sand,Internal,2,10,11
+585.94,Cement Sand,Internal,1,4,18
+2283.56,Cement Sand,Both,3,3,152
+787.4,Gypsum,Internal,3,12,7
+184.05,Gypsum,Both,1,9,2
+526.88,Cement Sand,Internal,7,15,7
+1872.59,Gypsum,External,5,18,15
+706.01,Gypsum,Internal,2,10,6
+760.01,Cement Sand,Internal,1,18,5
+449.43,Cement Sand,External,2,7,11
+4022.41,Cement Sand,External,2,9,77
+25.08,Cement Sand,Internal,2,10,1
+797.36,Gypsum,Both,3,3,35
+96.86,Gypsum,Internal,1,10,1
+161.68,Cement Sand,Internal,1,1,20
+1888.49,Cement Sand,Internal,2,19,14
+178.15,Cement Sand,Internal,2,7,3
+773.14,Cement Sand,External,3,2,72
+66.8,Cement Sand,Internal,4,11,1
+63.84,Gypsum,External,4,15,1
+1377.89,Gypsum,Both,2,7,24
+21.13,Cement Sand,External,1,17,1
+301.84,Cement Sand,External,5,5,13
+788.41,Gypsum,Both,2,9,11
+36.78,Cement Sand,External,2,5,1
+65.38,Cement Sand,Both,2,10,1
+676.18,Gypsum,Internal,1,2,28
+1231.18,Cement Sand,External,4,7,36
+467.17,Cement Sand,Internal,1,8,7
+428.08,Cement Sand,Internal,1,11,5
+1852.94,Cement Sand,Internal,1,10,23
+368.57,Cement Sand,Both,2,2,34
+139.23,Gypsum,Internal,4,13,1
+253.29,Cement Sand,Internal,1,16,2
+96.82,Cement Sand,Internal,2,8,2
+3218.01,Cement Sand,External,3,14,43
+40.26,Gypsum,Both,2,8,1
+144.43,Cement Sand,Internal,1,7,3
+2461.37,Cement Sand,Internal,1,12,26
+556.17,Cement Sand,Internal,2,5,15
+292.01,Cement Sand,External,1,7,7
+239.97,Cement Sand,Internal,5,10,4
+701.72,Gypsum,Internal,1,7,8
+372.4,Cement Sand,Internal,2,15,3
+1497.55,Cement Sand,Both,2,1,275
+760.93,Cement Sand,External,2,7,19
+603.16,Cement Sand,Internal,4,16,6
+456.66,Gypsum,Both,1,4,13
+46.48,Cement Sand,Both,1,15,1
+2400.93,Cement Sand,Both,4,19,27
+2377.6,Gypsum,Internal,5,1,277
+714.03,Cement Sand,External,8,4,47
+1277.64,Cement Sand,Both,1,11,19
+487.47,Gypsum,Internal,3,11,4
+722,Gypsum,Internal,2,7,9
+1278.49,Gypsum,Internal,2,10,12
+525.45,Cement Sand,Both,4,14,8
+229.56,Cement Sand,External,1,3,12
+178.21,Gypsum,External,1,9,2
+663.27,Gypsum,Internal,1,20,3
+303.52,Gypsum,External,1,3,11
+827.94,Gypsum,External,4,16,7
+621.6,Gypsum,Internal,2,11,5
+91.08,Cement Sand,External,6,10,2
+316.56,Cement Sand,Internal,4,8,6
+2040.17,Gypsum,External,1,13,16
+573.98,Cement Sand,Both,3,6,19
+375.06,Cement Sand,Both,1,7,9
+59.76,Cement Sand,Internal,1,2,4
+104.88,Cement Sand,Internal,5,7,3
+1530.24,Cement Sand,Both,4,14,24
+831.59,Gypsum,Both,1,7,13
+4012.29,Cement Sand,Both,4,14,62
+72.42,Cement Sand,Internal,1,4,2
+1701.14,Cement Sand,Both,3,4,85
+489.1,Cement Sand,Internal,2,11,6
+233.37,Gypsum,Internal,1,6,3
+659.93,Cement Sand,External,2,8,14
+124.68,Cement Sand,External,2,2,11
+130.53,Cement Sand,External,3,2,12
+121.38,Gypsum,Both,1,4,3
+2262.97,Cement Sand,External,2,5,78
+2110.77,Gypsum,Both,1,14,17
+40.23,Cement Sand,Internal,4,1,7
+154.56,Gypsum,External,2,5,4
+601.09,Cement Sand,Internal,4,16,6
+101.37,Gypsum,External,1,4,3
+193.24,Cement Sand,Both,1,17,2
+82.35,Cement Sand,Both,1,2,7
+47.65,Cement Sand,Both,2,2,4
+824.72,Cement Sand,External,6,8,24
+217.53,Gypsum,External,1,7,3
+144.08,Cement Sand,Internal,1,3,6
+310.08,Gypsum,External,1,4,8
+28.72,Cement Sand,Both,4,2,3
+865.25,Cement Sand,External,1,2,68
+116.76,Cement Sand,External,2,4,5
+222.6,Cement Sand,Internal,2,7,4
+524.67,Cement Sand,Internal,2,6,12
+24.68,Gypsum,Both,2,3,1
+85.44,Gypsum,External,1,13,1
+4460.44,Cement Sand,Internal,6,3,279
+4970.28,Gypsum,Internal,5,1,580
+322.29,Gypsum,Both,2,9,4
+732.14,Cement Sand,External,2,11,11
+2181.67,Cement Sand,Internal,1,5,55
+632.25,Cement Sand,Internal,6,7,17
+684.15,Gypsum,Both,1,9,8
+113.75,Cement Sand,Internal,1,11,1
+1331.09,Cement Sand,Internal,1,10,17
+2758.87,Cement Sand,External,3,9,57
+155.89,Cement Sand,Internal,7,13,2
+121.34,Cement Sand,Internal,2,1,17
+530.34,Cement Sand,Both,3,1,106
+668.35,Cement Sand,Both,1,6,19
+173.2,Cement Sand,External,4,5,7
+97.98,Cement Sand,Internal,6,6,3
+181,Cement Sand,External,2,12,3
+171.03,Gypsum,Internal,2,11,1
+266.41,Gypsum,Internal,2,1,24
+69.56,Cement Sand,Internal,1,7,1
+885.47,Cement Sand,External,1,15,9
+534.08,Gypsum,Internal,1,7,6
+133.98,Cement Sand,Internal,4,8,3
+2011.74,Cement Sand,External,3,4,94
+88.99,Cement Sand,External,1,6,2
+34.04,Cement Sand,Internal,1,2,2
+131.4,Cement Sand,Internal,1,5,3
+61.02,Cement Sand,Both,4,7,2
+611.9,Gypsum,Internal,5,5,14
+470.33,Cement Sand,Internal,4,9,8
+583.55,Gypsum,Both,1,14,5
+34.15,Cement Sand,Internal,6,19,1
+185.99,Gypsum,Both,2,8,3
+358.94,Cement Sand,Both,2,8,8
+72.27,Cement Sand,Internal,2,10,1
+1332.78,Cement Sand,Both,3,14,19
+2133.05,Cement Sand,Internal,2,5,59
+440.11,Cement Sand,Both,5,14,7
+190.12,Gypsum,Internal,3,12,2
+205.26,Cement Sand,Internal,5,13,3
+577.25,Cement Sand,Internal,1,4,18
+4398.22,Cement Sand,Both,1,15,49
+386.62,Cement Sand,Both,3,6,13
+1821.64,Cement Sand,External,2,12,26
+4438.12,Cement Sand,Internal,7,8,111
+21.62,Gypsum,Internal,1,15,1
+2032.25,Gypsum,Internal,2,3,62
+499.32,Cement Sand,Internal,2,5,14
+101.71,Cement Sand,Internal,2,8,2
+779.52,Cement Sand,Internal,4,3,42
+178.14,Gypsum,Both,1,13,2
+138.72,Cement Sand,Internal,1,13,1
+176.39,Cement Sand,Internal,2,6,4
+28.74,Cement Sand,Internal,4,4,1
+1981.26,Gypsum,External,6,3,103
+2434.55,Cement Sand,External,1,1,380
+158.15,Cement Sand,Internal,2,7,3
+512.34,Gypsum,Internal,4,19,3
+153.15,Gypsum,Internal,2,5,3
+772.55,Gypsum,External,1,4,20
+388.71,Gypsum,Internal,4,7,6
+386.5,Cement Sand,Internal,3,5,12
+391.92,Gypsum,Both,2,1,48
+129.97,Cement Sand,External,1,7,3
+185.81,Cement Sand,Internal,3,3,9
+420.69,Cement Sand,Internal,1,8,7
+2291.54,Gypsum,Both,1,6,42
+60.97,Gypsum,Both,7,8,1
+2091.27,Cement Sand,External,3,8,49
+344.3,Cement Sand,Internal,1,4,11
+460.23,Cement Sand,Internal,6,8,11
+144.71,Cement Sand,Both,3,9,3
+1690.25,Gypsum,Internal,2,15,10
+97.7,Cement Sand,External,1,6,3
+176.18,Cement Sand,Internal,1,14,2
+650.37,Cement Sand,Both,2,7,17
+1942.62,Cement Sand,External,6,6,76
+334.13,Cement Sand,Internal,1,8,5
+2272.11,Cement Sand,Both,1,8,47
+1615.75,Gypsum,Both,1,10,18
+172.41,Cement Sand,Internal,1,2,11
+137.21,Cement Sand,Both,2,14,2
+2009.26,Gypsum,External,8,5,71
+540.9,Cement Sand,External,10,9,18
+705.44,Cement Sand,External,1,2,55
+490.64,Cement Sand,Internal,7,1,98
+1285.11,Gypsum,External,1,9,15
+354.7,Cement Sand,External,1,7,8
+95.04,Gypsum,External,1,7,1
+187.61,Gypsum,Both,1,2,10
+667.58,Cement Sand,Both,2,13,9
+121.03,Gypsum,External,5,8,2
+35.26,Cement Sand,Internal,1,2,2
+190.33,Gypsum,Internal,2,5,3
+1932.84,Cement Sand,Internal,1,10,24
+367.52,Cement Sand,External,10,11,10
+72.98,Gypsum,Internal,10,1,12
+460.26,Gypsum,External,2,5,11
+1645.1,Gypsum,Both,1,6,30
+662.43,Cement Sand,Internal,1,2,41
+335.2,Cement Sand,External,1,13,4
+1441.02,Cement Sand,Internal,2,10,20
+138.73,Cement Sand,External,1,15,1
+169.5,Gypsum,Internal,2,12,1
+116.15,Cement Sand,External,3,8,3
+3757.9,Gypsum,Internal,2,10,34
+144.06,Cement Sand,Internal,4,4,6
+252.19,Gypsum,External,1,4,7
+65.1,Gypsum,External,5,16,1
+197.5,Cement Sand,Internal,2,11,2
+198.71,Gypsum,Internal,1,5,3
+2018.2,Cement Sand,External,4,10,41
+197.34,Gypsum,Internal,6,5,5
+1219.33,Gypsum,Both,1,15,9
+472.67,Cement Sand,Internal,2,11,6
+647.8,Gypsum,External,1,4,17
+1362.68,Cement Sand,Both,3,9,30
+1364.38,Gypsum,Internal,1,9,13
+866.5,Gypsum,Internal,1,2,36
+137.97,Gypsum,External,1,5,3
+268.48,Cement Sand,External,5,8,7
+560.3,Cement Sand,Internal,2,8,10
+42.12,Gypsum,External,3,3,2
+39.51,Cement Sand,External,3,7,1
+344.73,Cement Sand,Both,5,4,20
+394.2,Cement Sand,Both,6,13,8
+4855.46,Cement Sand,Internal,1,14,43
+21.47,Cement Sand,Internal,1,4,1
+66.41,Cement Sand,Both,1,1,11
+63.43,Gypsum,Internal,1,10,1
+91.68,Cement Sand,External,1,3,5
+422.24,Gypsum,Internal,2,11,4
+54.69,Cement Sand,Both,2,3,3
+248.12,Gypsum,External,7,8,5
+75.5,Cement Sand,Internal,2,5,2
+2428.26,Gypsum,Both,1,3,90
+617.36,Gypsum,External,1,12,5
+357.55,Cement Sand,Internal,4,2,29
+134.49,Cement Sand,Internal,3,8,3
+2530.75,Cement Sand,External,3,1,475
+31.22,Cement Sand,External,1,20,1
+121.4,Cement Sand,External,6,4,7
+998.17,Cement Sand,Both,2,10,18
+1568.36,Cement Sand,Internal,2,10,22
+76.53,Gypsum,External,1,6,1
+646.2,Cement Sand,Both,1,2,54
+3692.15,Gypsum,External,2,2,212
+1465.26,Cement Sand,Internal,4,11,22
+911.64,Cement Sand,External,1,7,20
+2004.68,Cement Sand,External,1,3,104
+175.05,Gypsum,Internal,4,2,9
+845.77,Gypsum,External,3,9,12
+2308.75,Cement Sand,External,1,9,40
+2367.44,Gypsum,External,7,5,79
+265.37,Cement Sand,Internal,2,8,5
+4677.43,Cement Sand,Both,5,8,136
+630.3,Cement Sand,Internal,3,15,6
+4277.62,Gypsum,External,4,3,193
+563.96,Cement Sand,External,2,9,11
+673.74,Cement Sand,Both,1,11,10
+225.48,Cement Sand,External,2,1,39
+91.78,Cement Sand,Internal,2,11,1
+4549.73,Cement Sand,Both,3,8,114
+2002.99,Cement Sand,Internal,1,1,250
+95.03,Gypsum,Both,1,10,1
+112.26,Cement Sand,Both,1,14,1
+173.21,Cement Sand,Internal,4,15,2
+52.4,Gypsum,Internal,1,3,1
+153.72,Cement Sand,External,4,9,3
+625.78,Cement Sand,External,1,19,5
+1946.33,Gypsum,Both,1,20,11
+2806.84,Cement Sand,External,1,3,146
+1472.72,Cement Sand,Internal,2,2,101
+1460.11,Cement Sand,Internal,1,8,23
+2188.13,Cement Sand,Internal,2,9,33
+1319.23,Gypsum,Both,1,14,10
+31.36,Cement Sand,Both,4,10,1
+41.05,Cement Sand,External,5,2,4
+278.32,Cement Sand,External,1,5,9
+211.2,Gypsum,Internal,1,9,2
+65.05,Cement Sand,Both,1,10,1
+198.16,Cement Sand,Both,1,4,8
+1182.45,Cement Sand,Internal,4,2,96
+1853.67,Cement Sand,Both,4,10,40
+49.81,Gypsum,Both,3,3,2
+3385.2,Cement Sand,External,1,2,264
+619.11,Cement Sand,Internal,4,8,13
+629.63,Gypsum,Internal,5,11,7
+398.58,Cement Sand,Internal,4,6,11
+2549.96,Cement Sand,Internal,1,9,35
+1838.01,Gypsum,Both,5,2,143
+69.47,Cement Sand,Internal,3,1,10
+1543.21,Cement Sand,External,4,11,28
+1794.64,Gypsum,External,4,8,30
+191.47,Cement Sand,External,1,3,10
+54.4,Cement Sand,Internal,1,6,1
+32.93,Cement Sand,Internal,3,7,1
+307.74,Cement Sand,Internal,3,4,12
+787.95,Gypsum,Internal,5,13,7
+260.46,Cement Sand,Internal,1,11,3
+158.69,Cement Sand,Internal,2,8,3
+2047.2,Cement Sand,Both,7,13,42
+42.03,Gypsum,Internal,6,8,1
+710.95,Cement Sand,Internal,2,6,16
+664.35,Cement Sand,Internal,2,6,15
+4375.6,Cement Sand,Both,6,8,137
+2223.75,Cement Sand,External,1,1,347
+42.78,Cement Sand,External,5,14,1
+479.07,Cement Sand,Both,3,11,9
+2386.64,Cement Sand,Internal,1,11,27
+502.46,Cement Sand,External,7,17,7
+3810.08,Cement Sand,External,5,3,278
+788.65,Cement Sand,Internal,6,2,74
+503.96,Cement Sand,External,4,1,102
+2430.91,Cement Sand,Internal,4,4,99
+46.17,Cement Sand,Both,1,9,1
+605.89,Gypsum,Both,6,1,101
+3528.42,Cement Sand,Internal,2,14,35
+81.72,Cement Sand,External,3,9,2
+487.07,Cement Sand,External,2,1,84
+1275.82,Gypsum,Internal,1,7,15
+852.69,Gypsum,Internal,1,4,18
+482.92,Gypsum,Internal,1,15,3
+591.53,Gypsum,Internal,1,10,5
+1085.87,Cement Sand,Both,8,8,38
+320.36,Cement Sand,External,4,10,7
+214.37,Cement Sand,External,7,3,18
+493.73,Cement Sand,External,3,13,7
+110.19,Cement Sand,Internal,2,16,1
+687.75,Cement Sand,External,1,10,11
+1999.73,Cement Sand,Internal,2,4,69
+3380.06,Cement Sand,Internal,9,3,254
+389.41,Cement Sand,Both,2,15,5
+50.79,Gypsum,Internal,2,10,1
+171.2,Cement Sand,Internal,3,10,3
+656.83,Gypsum,Both,2,10,8
+85.6,Gypsum,Both,3,1,11
+150.06,Cement Sand,Internal,2,9,2
+603.93,Gypsum,Both,1,7,10
+4344.73,Gypsum,Internal,3,6,72
+180.06,Gypsum,Internal,1,17,1
+129.57,Cement Sand,Internal,3,3,6
+1547.03,Gypsum,Both,2,2,95
+1176.23,Cement Sand,External,1,3,61
+2093.67,Cement Sand,Both,2,8,48
+119.76,Cement Sand,Both,1,15,1
+180.69,Gypsum,Internal,2,7,2
+2320.14,Cement Sand,Internal,1,1,290
+309.03,Cement Sand,Both,7,6,14
+1577.27,Gypsum,External,1,1,164
+83.86,Gypsum,External,3,2,5
+2372.93,Cement Sand,External,2,9,45
+1821.02,Cement Sand,Internal,1,9,25
+258.14,Gypsum,External,3,5,6
+111.12,Cement Sand,External,4,2,11
+138.31,Cement Sand,Internal,2,10,2
+57.86,Gypsum,Internal,1,3,2
+409.84,Cement Sand,Both,3,13,6
+745.39,Gypsum,Internal,1,1,62
+1538,Cement Sand,Both,1,3,85
+91.88,Cement Sand,Internal,5,14,1
+4674.48,Cement Sand,Both,1,9,87
+366.04,Gypsum,Internal,4,18,2
+226.28,Cement Sand,External,2,9,4
+719.85,Cement Sand,Internal,1,13,7
+190.59,Cement Sand,Internal,3,5,6
+157,Cement Sand,External,1,8,3
+790.08,Cement Sand,External,2,1,136
+1592.12,Cement Sand,Internal,3,6,40
+311.69,Gypsum,Both,1,7,5
+64.81,Cement Sand,Both,1,1,11
+453.87,Cement Sand,Internal,5,6,13
+95.72,Cement Sand,External,1,4,4
+1408.51,Cement Sand,Internal,3,4,53
+232.94,Cement Sand,External,4,2,24
+1331.29,Cement Sand,Both,2,8,31
+900.46,Cement Sand,External,1,4,35
+253.6,Cement Sand,External,1,4,10
+159.54,Cement Sand,Both,1,19,1
+1676.79,Cement Sand,Both,2,15,20
+2381.95,Gypsum,Internal,1,9,22
+1765.99,Cement Sand,Both,1,2,147
+160.28,Cement Sand,Both,2,2,15
+487.34,Cement Sand,External,2,6,14
+2475.27,Cement Sand,Internal,1,4,77
+65.29,Gypsum,Internal,1,6,1
+419.69,Gypsum,Internal,1,17,2
+407.78,Gypsum,External,1,4,11
+698.16,Cement Sand,External,2,8,15
+36.77,Cement Sand,Internal,1,2,2
+108.54,Cement Sand,Both,2,6,3
+1365.31,Cement Sand,Both,1,11,21
+110.16,Gypsum,Internal,4,9,1
+193.91,Cement Sand,External,3,2,18
+133.14,Cement Sand,Both,5,14,2
+93.3,Cement Sand,External,2,12,1
+2231.32,Cement Sand,External,1,7,50
+510.24,Cement Sand,Both,2,2,47
+4424.82,Gypsum,Internal,3,10,44
+401.07,Cement Sand,Both,2,6,12
+580.71,Cement Sand,Internal,1,8,9
+720.73,Cement Sand,External,1,12,9
+418.82,Cement Sand,Internal,2,5,12
+1763.04,Cement Sand,External,1,5,55
+103.02,Cement Sand,Both,3,14,1
+1229.47,Cement Sand,External,5,10,27
+2189.22,Cement Sand,Both,7,5,117
+76.04,Cement Sand,Both,3,12,1
+3730.35,Cement Sand,Internal,2,3,171
+603.11,Cement Sand,Internal,1,2,38
+1991.48,Gypsum,Internal,1,7,24
+4537.61,Cement Sand,External,1,2,355
+627.49,Gypsum,External,1,7,9
+166.75,Gypsum,Internal,7,10,2
+354.28,Cement Sand,Internal,1,8,6
+313.57,Gypsum,Internal,1,12,2
+998.66,Gypsum,Both,1,1,111
+320.58,Gypsum,External,1,7,5
+2205.19,Cement Sand,Internal,2,13,23
+73.59,Cement Sand,External,4,5,3
+594.93,Cement Sand,Internal,1,6,12
+1420.26,Gypsum,Internal,3,14,10
+596.94,Gypsum,Both,5,1,93
+170,Gypsum,Both,2,3,7
+379.04,Gypsum,Internal,3,1,38
+416.14,Cement Sand,Both,1,7,10
+1047.65,Cement Sand,Internal,2,2,72
+113.02,Cement Sand,External,1,7,3
+141.28,Cement Sand,Internal,2,4,5
+1757.58,Cement Sand,Both,3,6,59
+1607.15,Cement Sand,Both,2,6,49
+197.15,Gypsum,Internal,3,6,3
+78.36,Cement Sand,External,3,6,2
+1601.74,Cement Sand,Internal,3,8,30
+736.93,Cement Sand,Internal,3,13,9
+640.85,Cement Sand,External,3,13,9
+2167.15,Gypsum,Internal,8,18,17
+105.1,Gypsum,Internal,1,14,1
+130.12,Cement Sand,External,2,16,1
+193.15,Cement Sand,External,5,13,3
+784.08,Cement Sand,External,3,7,21
+690.17,Cement Sand,Both,1,5,23
+743.6,Gypsum,Internal,1,8,8
+744.14,Cement Sand,Both,5,2,87
+999.23,Cement Sand,External,7,10,25
+739.59,Cement Sand,Internal,2,2,51
+134.96,Gypsum,External,1,15,1
+128.02,Cement Sand,Internal,2,7,3
+82.73,Gypsum,External,2,9,1
+64.02,Cement Sand,External,1,14,1
+129.23,Gypsum,Internal,2,20,1
+1778.03,Cement Sand,External,1,15,19
+183.51,Cement Sand,External,4,9,4
+304.11,Cement Sand,Internal,3,13,4
+657.97,Gypsum,Both,2,3,27
+57.47,Cement Sand,Both,1,8,1
+689.73,Gypsum,External,1,6,12
+20.13,Gypsum,External,7,18,1
+1439.66,Cement Sand,Both,5,4,84
+161.94,Cement Sand,Internal,2,11,2
+137.28,Cement Sand,External,2,5,5
+3312.21,Cement Sand,Internal,1,12,35
+23.59,Gypsum,Internal,7,12,1
+451.54,Cement Sand,External,3,4,21
+2516.83,Cement Sand,Internal,1,3,105
+423.82,Cement Sand,Internal,1,3,18
+1690.64,Cement Sand,Internal,1,4,53
+1097.9,Gypsum,Both,1,2,61
+473.73,Gypsum,Internal,2,7,6
+92.74,Cement Sand,Internal,1,16,1
+89.32,Gypsum,Internal,1,3,2
+1407.86,Cement Sand,Both,4,4,76
+889.85,Cement Sand,External,2,14,11
+269.42,Cement Sand,Internal,3,10,4
+191.69,Gypsum,Both,1,9,2
+2091.8,Cement Sand,External,4,6,71
+33.48,Gypsum,Both,1,6,1
+150.69,Cement Sand,Internal,1,12,2
+687.6,Gypsum,External,1,12,6
+660.72,Gypsum,Internal,1,4,14
+83.11,Cement Sand,Both,2,10,2
+54.72,Cement Sand,Both,5,13,1
+102.15,Cement Sand,Both,2,10,2
+700.65,Cement Sand,Both,1,2,58
+1454.11,Gypsum,Internal,3,4,36
+95.77,Cement Sand,External,4,17,1
+480.9,Cement Sand,External,3,6,15
+1638.63,Cement Sand,Internal,6,8,38
+183.5,Cement Sand,External,3,5,7
+1991.97,Cement Sand,Internal,4,4,81
+767.94,Gypsum,Both,10,15,11
+675.93,Cement Sand,Both,6,13,13
+516.48,Cement Sand,Internal,1,10,6
+121.74,Cement Sand,Both,4,9,3
+43.82,Gypsum,Internal,4,15,1
+76.07,Gypsum,Internal,5,11,1
+141.77,Cement Sand,External,7,12,3
+1318.56,Gypsum,Internal,2,10,12
+176.47,Gypsum,Internal,2,7,2
+155.47,Cement Sand,External,3,3,10
+68.55,Gypsum,Internal,7,12,1
+586.31,Gypsum,Internal,3,5,12
+473.09,Gypsum,Internal,3,10,5
+31.31,Cement Sand,External,3,4,1
+21.51,Cement Sand,Internal,2,15,1
+51.39,Gypsum,External,2,5,1
+104.83,Cement Sand,External,3,14,1
+1835.71,Gypsum,Both,3,6,41
+76.82,Cement Sand,Both,1,5,3
+562.89,Cement Sand,Both,1,10,9
+378.86,Cement Sand,Both,1,9,7
+192.39,Cement Sand,External,4,9,4
+68.64,Gypsum,Both,2,9,1
+67.41,Cement Sand,Internal,1,1,8
+174.63,Gypsum,External,2,6,3
+104.76,Gypsum,Internal,5,12,1
+2048.84,Gypsum,Both,1,8,28
+4099.64,Cement Sand,External,1,9,71
+3889.79,Cement Sand,External,2,4,167
+1570.85,Gypsum,Internal,1,8,16
+3833.73,Gypsum,External,4,13,40
+731.68,Cement Sand,Both,3,1,146
+1065.66,Cement Sand,Internal,1,6,22
+93.36,Cement Sand,External,2,4,4
+1425.06,Gypsum,Internal,1,6,20
+1048.83,Cement Sand,Internal,1,9,15
+20.56,Cement Sand,Both,4,10,1
+2101.32,Gypsum,Internal,1,3,58
+2182.46,Cement Sand,Internal,4,6,59
+2370.3,Cement Sand,External,1,15,25
+176.11,Cement Sand,Internal,3,2,13
+541.82,Gypsum,Both,2,14,5
+795.34,Cement Sand,Internal,2,12,9
+79.92,Cement Sand,Both,7,5,4
+91.4,Gypsum,Internal,2,1,8
+2963.83,Gypsum,Both,2,9,40
+289.04,Cement Sand,External,4,3,20
+47.56,Cement Sand,Both,5,17,1
+54.12,Gypsum,Internal,5,10,1
+593.06,Cement Sand,Both,1,4,25
+2067.17,Cement Sand,External,1,5,65
+1482.03,Cement Sand,Internal,3,4,56
+297.7,Cement Sand,External,2,1,51
+3248.15,Cement Sand,External,4,9,73
+4474.97,Cement Sand,Internal,1,9,62
+420.8,Cement Sand,Internal,1,18,3
+475.92,Cement Sand,Internal,2,8,8
+679.62,Gypsum,Internal,1,9,6
+130.76,Cement Sand,Both,2,10,2
+602.1,Cement Sand,Internal,1,2,38
+135.36,Cement Sand,External,5,4,7
+185.5,Cement Sand,External,2,11,3
+323.95,Cement Sand,Both,1,20,3
+119.29,Cement Sand,Internal,2,4,4
+4749.23,Cement Sand,Internal,1,3,198
+633.55,Cement Sand,Internal,1,4,20
+464.84,Cement Sand,Internal,1,14,4
+2051.98,Gypsum,Both,6,6,57
+1895.59,Gypsum,Internal,4,9,23
+2325.59,Gypsum,Internal,1,9,22
+387.06,Gypsum,Both,3,8,6
+437,Gypsum,Both,6,2,36
+537.33,Gypsum,External,2,11,6
+1686.1,Cement Sand,Both,6,5,84
+126.1,Gypsum,External,1,14,1
+772.93,Cement Sand,Both,1,3,43
+494.61,Gypsum,Both,1,8,7
+91.6,Cement Sand,Both,1,14,1
+4330.15,Cement Sand,External,3,2,406
+2571.73,Cement Sand,Both,4,10,56
+34.17,Cement Sand,Internal,3,15,1
+678.07,Gypsum,Internal,2,7,9
+370.62,Gypsum,Internal,1,7,4
+197.39,Cement Sand,Internal,2,7,4
+554.84,Cement Sand,Internal,1,7,10
+117.75,Cement Sand,External,1,9,2
+361.72,Cement Sand,External,2,12,5
+90.58,Cement Sand,Both,1,3,5
+367.32,Gypsum,External,1,7,5
+4966.8,Gypsum,External,3,1,621
+40.82,Cement Sand,External,2,15,1
+354.67,Cement Sand,Both,1,4,15
+246.42,Cement Sand,External,1,2,19
+1822.04,Cement Sand,Internal,1,14,16
+4258.12,Gypsum,Both,1,10,47
+58.07,Cement Sand,External,1,10,1
+852.75,Cement Sand,External,6,14,14
+1144.13,Cement Sand,External,3,11,20
+317.55,Cement Sand,Both,9,2,48
+2290.97,Cement Sand,Internal,3,1,344
+41.93,Cement Sand,External,4,12,1
+58.09,Cement Sand,Internal,2,12,1
+1815.29,Cement Sand,External,3,2,170
+123.81,Gypsum,Both,3,1,17
+1731.75,Cement Sand,Internal,2,1,238
+452.21,Cement Sand,Internal,1,16,4
+152.96,Gypsum,Internal,1,9,1
+1102.97,Gypsum,External,1,4,29
+1564.72,Gypsum,External,3,11,18
+2739.9,Cement Sand,Internal,3,11,37
+189.67,Cement Sand,Both,1,15,2
+1882.03,Cement Sand,Internal,2,10,26
+174.87,Cement Sand,External,2,8,4
+119.1,Gypsum,Internal,1,11,1
+151.22,Cement Sand,Both,3,2,15
+649.05,Gypsum,Both,2,7,11
+101.68,Cement Sand,Internal,1,10,1
+191.97,Cement Sand,Both,1,3,11
+404.07,Gypsum,Both,1,2,22
+406.2,Cement Sand,Internal,5,13,5
+62.81,Cement Sand,Internal,2,3,3
+109.07,Gypsum,External,1,10,1
+468.1,Gypsum,Internal,1,5,8
+324.02,Gypsum,Internal,5,15,3
+3754.67,Cement Sand,Internal,1,11,43
+949.87,Cement Sand,External,3,10,18
+1758.86,Cement Sand,Internal,2,8,30
+414.88,Gypsum,Internal,3,3,14
+176.34,Cement Sand,External,4,2,18
+149.15,Cement Sand,Internal,5,6,4
+702.78,Cement Sand,Internal,3,9,12
+1857.59,Gypsum,Internal,1,6,26
+363.55,Cement Sand,Internal,1,16,3
+2214.79,Gypsum,External,2,1,254
+786.83,Cement Sand,Internal,5,9,15
+603.47,Gypsum,Internal,1,8,6
+157,Gypsum,External,4,5,4
+2779.57,Cement Sand,Internal,2,2,191
+101.9,Gypsum,External,4,3,5
+101.71,Cement Sand,External,1,10,2
+146.13,Cement Sand,Internal,4,4,6
+386.42,Gypsum,Internal,1,10,3
+1497.21,Cement Sand,External,1,9,26
+41,Cement Sand,Internal,6,8,1
+287.74,Gypsum,Internal,7,1,38
+877.22,Cement Sand,Internal,7,10,18
+1373.17,Cement Sand,External,5,2,150
+632.2,Cement Sand,Internal,2,18,5
+790.11,Gypsum,Internal,1,6,11
+503.47,Gypsum,Internal,2,1,46
+183.93,Cement Sand,External,2,4,8
+117.48,Gypsum,Internal,1,10,1
+381.45,Cement Sand,External,2,3,22
+174.33,Gypsum,Both,1,8,2
+144.1,Cement Sand,External,3,15,2
+184.62,Gypsum,Internal,1,5,3
+259.05,Cement Sand,Internal,1,1,32
+111.1,Cement Sand,Both,3,1,22
+495.25,Cement Sand,External,2,19,4
+2308.29,Gypsum,Internal,4,9,28
+108.85,Cement Sand,Both,1,10,2
+304.35,Cement Sand,Both,1,3,17
+4796.56,Gypsum,Both,1,7,76
+1417.89,Gypsum,Internal,2,8,16
+259.05,Cement Sand,Both,2,8,6
+36.26,Cement Sand,Internal,2,6,1
+176.67,Gypsum,Internal,9,4,7
+136.53,Cement Sand,Both,4,8,4
+100.38,Cement Sand,Internal,1,2,6
+192.48,Cement Sand,Internal,1,8,3
+78.47,Cement Sand,External,2,13,1
+452.14,Gypsum,External,1,5,9
+1284.36,Gypsum,Both,1,9,16
+746.69,Gypsum,External,7,8,16
+70.03,Cement Sand,Internal,1,9,1
+1809.83,Cement Sand,External,1,6,47
+1047.36,Gypsum,Internal,2,15,6
+264.7,Cement Sand,External,1,12,3
+190.53,Cement Sand,External,2,15,2
+2208.87,Cement Sand,Internal,2,18,17
+2115.94,Gypsum,Internal,2,6,32
+114.98,Gypsum,Internal,7,8,2
+1058.55,Cement Sand,Both,1,4,44
+181.56,Cement Sand,Internal,1,5,5
+1836.42,Cement Sand,Internal,1,8,29
+2148.47,Gypsum,External,1,15,15
+743.18,Cement Sand,Internal,2,5,20
+2283.46,Gypsum,Internal,3,12,19
+142.26,Cement Sand,External,3,4,7
+143.14,Cement Sand,External,1,6,4
+158.6,Cement Sand,Internal,1,4,5
+188.68,Cement Sand,Both,2,14,2
+33.47,Gypsum,Internal,5,1,4
+172.8,Cement Sand,Internal,1,4,5
+572.14,Cement Sand,Both,1,6,16
+2489.22,Cement Sand,External,3,2,233
+2265.98,Gypsum,External,2,4,65
+489.71,Cement Sand,Internal,4,5,16
+3356.44,Cement Sand,Internal,9,9,84
+2367.68,Gypsum,External,1,8,31
+104.92,Cement Sand,Internal,1,8,2
+780.81,Cement Sand,Both,4,1,169
+53.96,Gypsum,Both,4,7,1
+137.67,Cement Sand,Internal,3,13,2
+2466.98,Cement Sand,Internal,6,1,463
+1934.3,Gypsum,External,5,6,47
+690.47,Gypsum,External,2,18,4
+186.72,Cement Sand,Internal,6,6,6
+1284.89,Gypsum,Both,2,1,157
+80.51,Cement Sand,Both,10,2,13
+56.83,Gypsum,Internal,4,1,6
+4329.39,Cement Sand,External,2,8,93
+380.61,Gypsum,Both,3,6,8
+76.06,Cement Sand,External,2,4,3
+621.09,Cement Sand,Both,1,6,17
+182.75,Cement Sand,External,6,11,4
+97.33,Gypsum,External,2,14,1
+4498.3,Cement Sand,Internal,1,1,562
+151.91,Cement Sand,External,1,6,4
+71.11,Cement Sand,Internal,2,9,1
+1673.03,Gypsum,Internal,5,2,98
+129.18,Cement Sand,External,2,18,1
+214.84,Cement Sand,Internal,2,9,3
+698.7,Cement Sand,Internal,4,14,8
+167.33,Cement Sand,External,3,4,8
+582.34,Cement Sand,External,2,3,33
+161.06,Cement Sand,Internal,5,10,3
+152.69,Cement Sand,Both,3,3,10
+127.32,Cement Sand,Internal,2,2,9
+2390.89,Gypsum,Both,2,9,32
+196.21,Gypsum,External,1,12,2
+147.74,Cement Sand,External,4,10,3
+4586.13,Cement Sand,External,2,10,79
+944.24,Gypsum,Both,1,4,26
+790.27,Cement Sand,External,1,6,21
+242.63,Gypsum,External,2,1,28
+1762.37,Cement Sand,Both,4,3,127
+697.18,Gypsum,Internal,1,11,5
+452.15,Gypsum,External,2,13,4
+1736.38,Cement Sand,Internal,1,11,20
+3744.37,Cement Sand,External,2,5,129
+432.58,Cement Sand,Internal,5,8,9
+371.62,Cement Sand,Both,7,4,25
+112.56,Cement Sand,External,3,9,2
+115.84,Gypsum,Internal,1,9,1
+355.93,Cement Sand,Internal,2,13,4
+36.68,Cement Sand,Both,2,7,1
+556.82,Cement Sand,Both,1,5,19
+4917.09,Gypsum,Internal,1,6,68
+729.56,Cement Sand,Both,2,8,17
+247.8,Cement Sand,Internal,1,1,31
+184.23,Gypsum,Internal,5,10,2
+4787.79,Cement Sand,Both,4,1,1037
+1525.56,Gypsum,Internal,5,8,22
+435.16,Cement Sand,Both,6,8,14
+1747.14,Cement Sand,Internal,1,12,18
+158.22,Gypsum,Both,1,1,18
+196.58,Gypsum,External,1,1,20
+312.44,Gypsum,Both,1,15,2
+389.44,Gypsum,Both,1,1,43
+1641.24,Gypsum,Internal,3,1,164
+2011.35,Cement Sand,Internal,2,17,16
+235.88,Gypsum,External,2,7,4
+2409.33,Cement Sand,Both,1,16,25
+4354.55,Gypsum,Internal,3,7,62
+267.69,Cement Sand,Both,1,12,4
+490.56,Gypsum,Internal,1,4,10
+2410.07,Cement Sand,Both,1,2,201
+499.37,Gypsum,External,1,9,6
+46.07,Gypsum,External,4,14,1
+25.78,Cement Sand,Both,5,1,6
+535.31,Cement Sand,Both,1,10,9
+355.78,Gypsum,Internal,2,13,3
+34.42,Gypsum,External,2,5,1
+1577.56,Cement Sand,Internal,2,10,22
+844.71,Cement Sand,Both,1,8,18
+633.75,Gypsum,Internal,3,8,8
+1095.63,Cement Sand,Internal,1,1,137
+1844.29,Cement Sand,External,2,13,24
+1069.76,Gypsum,Both,2,12,11
+20.64,Cement Sand,Internal,1,10,1
+91.13,Gypsum,Internal,1,3,3
+111.01,Gypsum,External,1,12,1
+413.32,Cement Sand,Internal,1,7,7
+702.33,Cement Sand,External,1,1,110
+822.62,Cement Sand,External,9,2,116
+140.72,Gypsum,External,2,8,2
+2437.05,Cement Sand,Internal,1,16,19
+446.25,Cement Sand,External,2,13,6
+151.81,Gypsum,Both,1,9,2
+1246.13,Gypsum,External,3,15,10
+868.34,Cement Sand,Internal,1,5,22
+297.3,Cement Sand,External,1,10,5
+395.19,Cement Sand,Internal,1,6,8
+320.69,Cement Sand,External,3,12,5
+4951.81,Cement Sand,Internal,2,9,76
+758.42,Gypsum,External,4,1,103
+112.25,Cement Sand,Internal,1,14,1
+617.34,Cement Sand,External,3,9,13
+1424.84,Cement Sand,External,1,5,45
+161.4,Cement Sand,Both,1,3,9
+474.99,Cement Sand,External,1,8,9
+279.52,Gypsum,Internal,1,8,3
+203.8,Gypsum,Internal,1,13,1
+99.66,Cement Sand,Internal,2,7,2
+1397.69,Cement Sand,Internal,2,8,24
+534.42,Cement Sand,Internal,3,3,27
+109.65,Gypsum,Both,2,1,13
+2348.36,Cement Sand,Internal,1,8,37
+157.61,Cement Sand,Internal,1,14,1
+1534.67,Cement Sand,External,5,5,67
+1869.95,Gypsum,Internal,5,10,22
+4796.88,Cement Sand,Internal,1,17,35
+20.44,Cement Sand,External,1,15,1
+291.82,Gypsum,Internal,3,8,4
+117.26,Cement Sand,External,2,4,5
+91.12,Cement Sand,Internal,3,1,14
+2098.8,Cement Sand,Both,1,9,39
+151.08,Cement Sand,Internal,3,12,2
+1457.45,Cement Sand,Both,3,15,19
+3054.44,Cement Sand,Internal,1,12,32
+34.6,Cement Sand,External,4,9,1
+721.59,Gypsum,Internal,1,1,60
+452.5,Gypsum,External,1,20,2
+398.27,Gypsum,External,1,9,5
+188.35,Cement Sand,Internal,2,4,6
+699.14,Gypsum,External,7,1,117
+70.93,Cement Sand,External,2,5,2
+1810.06,Gypsum,Internal,4,17,12
+68.48,Cement Sand,Internal,3,9,1
+1218.85,Gypsum,Internal,3,2,61
+1394.5,Cement Sand,External,1,15,15
+1922.01,Cement Sand,Internal,1,2,120
+1713.97,Cement Sand,Internal,1,6,36
+62.93,Cement Sand,External,1,6,2
+53.01,Gypsum,External,5,1,8
+217.95,Cement Sand,Both,1,14,3
+146.42,Cement Sand,External,4,15,2
+195.2,Gypsum,Both,2,4,6
+2101.81,Gypsum,Internal,4,10,23
+245.27,Cement Sand,Internal,3,6,6
+146.14,Cement Sand,Internal,1,6,3
+119.77,Cement Sand,Both,1,7,3
+107.49,Cement Sand,External,1,12,1
+739.36,Cement Sand,Internal,2,14,7
+103.43,Cement Sand,External,1,4,4
+627.22,Gypsum,Both,3,3,28
+496.11,Gypsum,Internal,7,8,8
+480.93,Cement Sand,Internal,1,14,4
+30.44,Cement Sand,Both,1,13,1
+1197.37,Gypsum,Both,1,7,19
+1457.23,Cement Sand,External,1,14,16
+119.41,Gypsum,Both,3,2,8
+4099.43,Gypsum,Internal,1,4,85
+168.92,Cement Sand,Both,1,8,4
+223.59,Cement Sand,Internal,5,5,8
+86.27,Cement Sand,Both,1,4,4
+196.5,Cement Sand,Internal,3,2,15
+468.98,Gypsum,Internal,1,4,10
+366.78,Cement Sand,Internal,3,6,9
+1862.2,Cement Sand,Internal,1,17,14
+1508.16,Cement Sand,Internal,1,9,21
+191.3,Cement Sand,Both,3,2,19
+1422.99,Gypsum,Internal,2,2,65
+934.14,Cement Sand,Internal,1,20,6
+798.15,Cement Sand,Internal,3,3,40
+404.16,Gypsum,Internal,5,8,6
+263.42,Cement Sand,Internal,3,10,4
+765.39,Cement Sand,Internal,3,2,57
+671.21,Gypsum,External,5,3,33
+697.72,Gypsum,Internal,2,10,6
+108.39,Cement Sand,Both,1,10,2
+3340.2,Cement Sand,External,1,6,87
+725.95,Cement Sand,Both,1,8,15
+166.39,Gypsum,Internal,1,4,3
+516.38,Cement Sand,External,3,10,10
+310.19,Cement Sand,External,3,14,4
+3056.58,Gypsum,Internal,2,12,23
+338.78,Cement Sand,Internal,1,10,4
+132.88,Gypsum,Internal,3,11,1
+22.47,Cement Sand,External,2,15,1
+177.84,Cement Sand,Internal,5,2,16
+795.77,Cement Sand,Internal,3,4,30
+233.47,Cement Sand,Internal,1,4,7
+865.88,Cement Sand,Both,5,9,22
+43.56,Cement Sand,Internal,3,2,3
+271.73,Cement Sand,External,2,4,12
+936.18,Gypsum,Both,1,9,12
+575.67,Cement Sand,Internal,1,2,36
+1117.83,Gypsum,Internal,1,14,7
+838.06,Cement Sand,Both,1,6,23
+180.37,Cement Sand,Both,2,2,17
+70.23,Cement Sand,Both,1,12,1
+505.27,Cement Sand,External,7,1,126
+716.58,Cement Sand,Both,6,8,22
+3966.9,Cement Sand,Internal,7,4,198
+615.18,Cement Sand,Both,2,4,28
+530.03,Cement Sand,External,1,7,12
+127.33,Cement Sand,External,3,2,12
+78.42,Cement Sand,Both,4,6,3
+254.19,Cement Sand,Internal,6,13,4
+534.27,Cement Sand,Internal,7,9,12
+150.08,Gypsum,Both,2,4,5
+74.07,Gypsum,Internal,1,11,1
+50,Gypsum,Internal,1,3,1
+2335.09,Gypsum,Internal,3,14,17
+462.59,Gypsum,Both,4,18,4
+750.83,Cement Sand,Internal,6,4,35
+504.63,Cement Sand,Internal,2,3,23
+32.58,Cement Sand,Internal,1,14,1
+210.43,Cement Sand,Both,3,7,6
+330.21,Cement Sand,Internal,5,17,3
+25.47,Gypsum,Internal,3,1,3
+1401.73,Cement Sand,Both,2,14,18
+158.94,Cement Sand,Internal,3,2,12
+694.31,Gypsum,Internal,1,4,14
+3564.52,Cement Sand,External,2,1,613
+38.69,Cement Sand,Internal,3,13,1
+99.08,Cement Sand,Both,1,10,2
+311.04,Gypsum,Internal,1,14,2
+2371.38,Cement Sand,External,1,6,62
+562.23,Cement Sand,Both,1,4,23
+1533.13,Cement Sand,Both,2,12,23
+64.87,Gypsum,Internal,2,7,1
+443.37,Cement Sand,Both,4,10,10
+543.14,Cement Sand,External,2,3,31
+347.23,Cement Sand,Both,2,5,13
+583.98,Cement Sand,External,1,8,11
+408.41,Gypsum,Internal,2,7,5
+1584.2,Cement Sand,Internal,4,4,64
+126.89,Gypsum,Both,7,5,5
+1770.47,Cement Sand,Internal,1,15,15
+779.01,Gypsum,Both,1,17,5
+581.19,Cement Sand,External,2,9,11
+629.01,Cement Sand,External,4,1,128
+244.05,Gypsum,External,1,6,4
+49.97,Cement Sand,Internal,1,3,2
+818.3,Gypsum,External,6,5,26
+89.88,Cement Sand,Both,3,4,4
+233.2,Cement Sand,External,2,4,10
+365.68,Cement Sand,Both,5,7,12
+41.94,Gypsum,Both,3,11,1
+349.51,Gypsum,Internal,3,1,35
+1505.46,Cement Sand,Internal,5,2,132
+122.29,Cement Sand,External,3,11,2
+386.35,Cement Sand,External,1,9,7
+80.64,Cement Sand,Internal,2,8,1
+1902.75,Gypsum,Internal,1,7,23
+76.33,Cement Sand,External,3,9,2
+632.92,Gypsum,Internal,1,9,6
+157.7,Cement Sand,Both,1,3,9
+666.76,Gypsum,Both,4,8,12
+4068.35,Cement Sand,Internal,1,15,34
+290.17,Gypsum,Internal,3,3,10
+688.87,Gypsum,Internal,1,7,8
+2000.28,Cement Sand,Internal,2,7,39
+2132.85,Gypsum,Both,1,7,34
+128.48,Gypsum,Both,1,19,1
+2864.29,Cement Sand,Both,1,8,60
+1425.9,Cement Sand,Both,7,9,42
+146.55,Cement Sand,Both,1,10,2
+65.47,Cement Sand,Internal,6,17,1
+1845.58,Gypsum,Internal,5,8,27
+54.27,Cement Sand,Both,2,16,1
+26.59,Cement Sand,Internal,3,2,2
+1411.13,Gypsum,External,3,1,176
+25.88,Cement Sand,Both,1,14,1
+163.52,Gypsum,Internal,2,10,1
+173.85,Cement Sand,Both,1,6,5
+4530.69,Cement Sand,External,1,5,142
+4575.11,Cement Sand,External,7,12,95
+3355.8,Gypsum,Both,6,7,80
+79.78,Cement Sand,Internal,6,8,2
+312.81,Gypsum,Both,1,10,3
+3271.9,Gypsum,Both,1,9,40
+1930.2,Cement Sand,Both,2,1,354
+560.62,Cement Sand,Both,1,13,7
+60.77,Gypsum,Internal,3,14,1
+2422.67,Cement Sand,External,2,8,52
+168.43,Cement Sand,External,2,8,4
+456.74,Cement Sand,Both,2,1,84
+57.66,Cement Sand,Internal,2,6,1
+228.3,Gypsum,Internal,3,9,3
+119.05,Cement Sand,Internal,1,15,1
+153.24,Cement Sand,External,1,5,5
+315.5,Cement Sand,Both,2,1,58
+733.43,Cement Sand,External,2,15,8
+505.36,Cement Sand,Internal,5,5,18
+141.02,Gypsum,Internal,1,2,6
+181.19,Cement Sand,Internal,1,2,11
+109.95,Cement Sand,Both,1,5,4
+4867.83,Cement Sand,Internal,1,9,68
+161.18,Cement Sand,External,4,3,11
+189.87,Gypsum,External,1,4,5
+162.69,Gypsum,Both,3,6,4
+426.15,Cement Sand,Internal,6,6,13
+362.63,Gypsum,Both,2,7,6
+4806.64,Gypsum,Internal,1,5,80
+1983.65,Cement Sand,External,1,4,77
+1323.02,Cement Sand,Internal,2,13,14
+2327.9,Cement Sand,Internal,2,9,36
+1092.31,Cement Sand,Internal,3,19,9
+130.22,Cement Sand,Internal,1,11,1
+526.6,Gypsum,Both,1,5,12
+166.45,Cement Sand,External,6,17,2
+53.32,Cement Sand,Internal,3,6,1
+625.86,Cement Sand,Internal,3,16,6
+20.94,Cement Sand,Both,1,6,1
+39.13,Cement Sand,Internal,1,5,1
+684.44,Gypsum,Internal,10,3,36
+33.84,Cement Sand,Internal,3,16,1
+58.5,Cement Sand,Internal,3,8,1
+234.47,Gypsum,Internal,2,2,11
+278.88,Gypsum,Both,3,6,6
+376.87,Cement Sand,Internal,2,6,9
+643.1,Cement Sand,Internal,2,1,88
+121.99,Gypsum,Internal,1,2,5
+284.03,Cement Sand,External,1,14,3
+496.06,Gypsum,Internal,1,8,5
+80.63,Cement Sand,Both,3,2,8
+4080.24,Gypsum,Internal,3,8,51
+87.96,Cement Sand,Both,9,15,2
+185.13,Cement Sand,Both,2,6,6
+391.05,Cement Sand,Internal,7,6,13
+177.21,Cement Sand,Both,1,14,2
+157.85,Cement Sand,Internal,1,7,3
+47.15,Gypsum,Internal,1,8,1
+1153.25,Gypsum,External,2,7,19
+1021.67,Cement Sand,Both,3,12,17
+113.35,Gypsum,Internal,3,5,2
+69.38,Gypsum,Both,3,5,2
+417.64,Cement Sand,Both,2,12,6
+640.65,Cement Sand,External,4,5,26
+553.06,Cement Sand,Both,2,8,13
+3272.92,Cement Sand,Both,3,4,164
+52.6,Gypsum,External,2,4,2
+146.68,Gypsum,External,2,6,3
+24.33,Cement Sand,External,7,1,6
+478.56,Cement Sand,External,5,9,12
+455.58,Gypsum,Both,1,13,4
+480.34,Gypsum,Internal,3,10,5
+52.61,Gypsum,External,2,15,1
+34.35,Gypsum,External,1,16,1
+1240.78,Cement Sand,Internal,1,2,78
+429.35,Cement Sand,Internal,2,9,7
+4729.63,Gypsum,Internal,3,1,473
+191.25,Cement Sand,Internal,1,10,2
+237.78,Cement Sand,Both,6,20,3
+336.92,Gypsum,Internal,1,9,3
+269.09,Cement Sand,Internal,1,13,3
+510.08,Cement Sand,External,4,12,9
+156.8,Cement Sand,External,1,1,24
+151.06,Cement Sand,Both,8,6,7
+3825.22,Cement Sand,Both,1,1,638
+144.48,Cement Sand,Internal,2,6,3
+257.17,Cement Sand,Internal,3,10,4
+52,Cement Sand,External,2,11,1
+526.88,Cement Sand,Internal,1,9,7
+1133.56,Cement Sand,Both,1,5,38
+768.27,Cement Sand,Internal,1,9,11
+125.8,Cement Sand,Both,1,2,10
+583.16,Gypsum,Internal,2,15,4
+190.07,Cement Sand,Both,8,9,6
+563.92,Cement Sand,External,1,2,44
+4613.38,Cement Sand,External,1,10,72
+261.78,Gypsum,External,3,5,7
+50.46,Cement Sand,Internal,3,10,1
+402.46,Gypsum,External,1,7,6
+477.46,Cement Sand,Both,2,5,18
+36.19,Cement Sand,External,2,9,1
+2000.54,Gypsum,Internal,3,12,17
+357.16,Gypsum,External,1,2,19
+4290.85,Cement Sand,External,5,9,104
+475.43,Gypsum,External,3,6,10
+179.23,Cement Sand,Internal,4,8,4
+310.25,Gypsum,External,1,6,5
+635.24,Cement Sand,Both,1,5,21
+117.31,Gypsum,Both,6,14,1
+224.85,Cement Sand,Both,5,2,26
+1662.35,Cement Sand,Internal,3,2,125
+395.66,Cement Sand,External,4,10,8
+3210.26,Cement Sand,Internal,6,7,86
+1501.27,Cement Sand,Internal,1,16,12
+36.04,Cement Sand,External,2,1,6
+4029.51,Cement Sand,External,1,15,42
+259.61,Gypsum,Internal,2,6,4
+956.67,Gypsum,Internal,2,5,18
+1666.87,Gypsum,External,2,3,64
+265.1,Cement Sand,Internal,2,4,9
+1768.7,Cement Sand,Both,5,15,28
+1718.87,Cement Sand,External,2,14,21
+38.36,Gypsum,Internal,2,9,1
+769.51,Cement Sand,Internal,1,2,48
+1151.79,Cement Sand,External,4,12,19
+188.83,Cement Sand,External,1,12,2
+172.16,Cement Sand,Internal,3,8,3
+541.09,Gypsum,Internal,1,4,11
+368.37,Cement Sand,External,1,9,6
+3868.16,Gypsum,Both,10,1,817
+198.57,Cement Sand,Both,1,10,3
+505.93,Cement Sand,External,2,6,14
+160.95,Cement Sand,Both,2,10,3
+1374.85,Cement Sand,External,8,2,183
+126.58,Gypsum,Internal,2,5,2
+833.24,Cement Sand,External,3,9,17
+2443.97,Cement Sand,Internal,2,7,48
+165.22,Cement Sand,External,3,8,4
+571.5,Cement Sand,Internal,3,2,43
+306.11,Cement Sand,Internal,1,6,6
+2086.31,Gypsum,Both,3,17,16
+340.21,Gypsum,Internal,3,7,5
+2204.32,Cement Sand,External,1,16,22
+150.5,Cement Sand,Both,2,4,7
+1653.79,Cement Sand,External,1,4,65
+471.89,Cement Sand,Both,1,20,4
+910.02,Cement Sand,External,1,6,24
+763.16,Gypsum,External,1,13,6
+61.1,Cement Sand,Both,7,9,2
+1267.92,Gypsum,Internal,2,4,29
+88.89,Cement Sand,External,1,11,1
+313.54,Cement Sand,Both,1,5,10
+131.74,Gypsum,Internal,1,6,2
+747.59,Cement Sand,Internal,5,11,12
+61.98,Gypsum,Internal,4,6,1
+97.16,Cement Sand,Internal,1,14,1
+564.51,Cement Sand,Internal,2,7,11
+1638.88,Cement Sand,Internal,1,8,26
+45.97,Gypsum,Both,4,9,1
+325.03,Cement Sand,Internal,4,7,8
+3389.61,Gypsum,External,1,9,39
+252.38,Gypsum,External,1,13,2
+192.73,Cement Sand,External,5,7,6
+194.56,Cement Sand,Internal,2,7,4
+642.65,Cement Sand,External,1,7,14
+1827.4,Gypsum,External,2,6,35
+1870.15,Gypsum,Internal,2,12,14
+2375.23,Cement Sand,Internal,2,6,54
+2317.73,Cement Sand,External,1,1,362
+370.89,Cement Sand,Both,2,18,4
+235.62,Cement Sand,Internal,1,15,2
+641.72,Cement Sand,External,2,7,16
+70.34,Gypsum,External,4,19,1
+522.12,Cement Sand,Both,1,2,44
+701.8,Gypsum,Internal,2,12,5
+118.56,Gypsum,Both,3,6,3
+515.43,Cement Sand,Both,6,7,18
+2801.58,Cement Sand,Both,4,9,67
+415.43,Gypsum,External,2,3,16
+41.75,Gypsum,Both,3,7,1
+1241.77,Cement Sand,Internal,4,6,34
+174.61,Cement Sand,Both,1,6,5
+22.68,Gypsum,Internal,1,2,1
+644.5,Cement Sand,External,1,2,50
+789.56,Gypsum,Both,3,10,11
+191.62,Cement Sand,Both,2,9,4
+1733.68,Gypsum,Internal,1,6,24
+3118.79,Gypsum,External,4,12,35
+4289.19,Cement Sand,External,3,3,268
+178.67,Cement Sand,Internal,8,9,4
+111.8,Cement Sand,Internal,2,3,5
+88.74,Cement Sand,Internal,2,10,1
+4449.05,Gypsum,External,2,17,30
+196.73,Cement Sand,Internal,1,8,3
+130.48,Cement Sand,Internal,2,4,4
+73.26,Gypsum,Internal,1,12,1
+327.94,Cement Sand,External,8,13,7
+685.33,Gypsum,Internal,2,14,4
+177.88,Gypsum,Internal,2,7,2
+1223.6,Gypsum,External,2,15,9
+675.32,Gypsum,Both,2,8,10
+182.81,Gypsum,Internal,2,10,2
+322.72,Cement Sand,Internal,1,1,40
+171.33,Gypsum,Internal,2,13,1
+542.04,Cement Sand,Internal,1,7,10
+1543.73,Cement Sand,Both,5,14,26
+149.24,Cement Sand,Internal,1,8,2
+3154.91,Cement Sand,Both,8,3,298
+79.43,Gypsum,External,7,3,4
+1932.85,Cement Sand,Both,1,6,54
+317.76,Gypsum,Internal,9,6,8
+232.99,Gypsum,Internal,3,15,2
+2085.29,Gypsum,External,2,6,40
+1674.73,Cement Sand,Internal,4,13,21
+1976.6,Gypsum,Both,1,4,55
+1649.69,Cement Sand,External,2,5,57
+103.26,Cement Sand,External,1,19,1
+361.25,Cement Sand,External,2,1,62
+788.69,Cement Sand,External,1,3,41
+91.46,Cement Sand,External,2,11,1
+615.27,Cement Sand,Both,2,10,11
+60.85,Gypsum,External,2,9,1
+3756.25,Gypsum,External,5,19,29
+3036.46,Gypsum,Internal,1,7,36
+2025.56,Cement Sand,Both,2,9,41
+3772.43,Cement Sand,Both,2,16,43
+2743.19,Cement Sand,External,1,13,33
+67.63,Cement Sand,Both,1,7,2
+457.17,Cement Sand,External,2,17,5
+393.83,Cement Sand,External,1,3,21
+4769.9,Cement Sand,Both,4,14,74
+53.32,Gypsum,Internal,3,4,1
+174.52,Gypsum,Internal,2,20,1
+1082.86,Cement Sand,External,6,3,85
+731.26,Cement Sand,Both,2,1,134
+186.09,Cement Sand,Internal,2,14,2
+382.09,Cement Sand,Both,2,11,6
+704.41,Cement Sand,Both,4,9,17
+175.37,Gypsum,External,10,5,7
+164.48,Gypsum,Both,4,9,3
+4774.4,Gypsum,Both,5,20,37
+386.82,Cement Sand,Both,4,4,21
+270,Cement Sand,Both,1,10,4
+334.62,Cement Sand,Both,2,4,15
+473.41,Gypsum,External,1,9,5
+263.71,Gypsum,Both,3,1,35
+175.67,Cement Sand,External,3,6,5
+755.18,Cement Sand,Internal,5,7,19
+122.72,Cement Sand,Internal,2,3,6
+1554.49,Cement Sand,Internal,1,8,24
+210.53,Gypsum,External,5,4,8
+453.62,Gypsum,Internal,1,4,9
+179.09,Gypsum,Both,1,6,3
+290.73,Gypsum,External,2,2,17
+100.34,Gypsum,Internal,1,6,1
+2748.68,Gypsum,Internal,9,15,27
+220.26,Gypsum,Internal,2,13,2
+2447,Gypsum,Internal,2,9,25
+784.96,Cement Sand,Internal,2,13,8
+474.66,Cement Sand,Internal,1,1,59
+1223.36,Gypsum,External,8,9,24
+243.42,Gypsum,Internal,2,7,3
+82.45,Cement Sand,Both,1,3,5
+438.03,Gypsum,External,2,4,13
+2467.76,Cement Sand,Internal,1,10,31
+4148.52,Gypsum,Internal,1,4,86
+2967.03,Cement Sand,External,2,13,39
+42.72,Cement Sand,Both,1,7,1
+28.74,Gypsum,External,2,6,1
+1354.93,Cement Sand,External,2,3,78
+770.87,Cement Sand,External,2,3,44
+441.98,Cement Sand,External,4,8,11
+45.65,Cement Sand,Internal,3,11,1
+95.99,Gypsum,Internal,4,6,2
+562.84,Cement Sand,External,3,8,13
+1831.64,Gypsum,Both,3,15,16
+771.64,Cement Sand,Internal,1,10,10
+36.95,Cement Sand,Internal,1,2,2
+741.63,Cement Sand,Internal,1,3,31
+491.73,Cement Sand,Both,2,7,13
+299.18,Gypsum,Internal,1,9,3
+687.24,Gypsum,External,6,14,8
+172.76,Gypsum,Both,1,12,2
+94.49,Cement Sand,Internal,5,10,2
+2772.56,Cement Sand,Both,4,10,60
+208.42,Cement Sand,Internal,2,13,2
+1253.83,Cement Sand,Both,2,9,26
+116.61,Cement Sand,Internal,1,9,2
+72.83,Gypsum,Internal,6,6,2
+258.84,Gypsum,Internal,2,6,4
+23.16,Gypsum,External,1,13,1
+782.72,Gypsum,External,4,8,13
+492.98,Gypsum,External,2,3,19
+507.96,Cement Sand,External,1,7,11
+3581.53,Gypsum,External,1,7,53
+104.83,Gypsum,Internal,1,1,9
+3480.24,Cement Sand,Both,1,5,116
+2137.7,Cement Sand,External,1,4,84
+351.69,Gypsum,Internal,1,10,3
+1114.16,Gypsum,External,2,19,7
+2297.7,Cement Sand,Internal,2,4,79
+159.83,Gypsum,Internal,4,19,1
+494.01,Cement Sand,Internal,1,4,15
+1084.52,Cement Sand,External,5,18,13
+183.1,Gypsum,External,3,19,1
+296.96,Cement Sand,Internal,4,20,2
+169.01,Gypsum,Both,1,9,2
+1968.72,Gypsum,Internal,7,3,87
+194.41,Gypsum,Internal,5,14,2
+128.22,Gypsum,External,5,7,3
+1859.23,Cement Sand,External,1,16,18
+88.25,Cement Sand,Both,5,6,3
+721.48,Cement Sand,Both,1,9,13
+1351.12,Cement Sand,Both,8,7,55
+4934.37,Gypsum,Both,1,11,50
+676.66,Cement Sand,Internal,1,10,8
+156.2,Cement Sand,External,1,10,2
+51.4,Cement Sand,External,2,4,2
+194.47,Cement Sand,Internal,5,8,4
+70.32,Cement Sand,Both,6,18,1
+452.31,Cement Sand,External,6,7,15
+132.27,Gypsum,Both,2,5,3
+188.58,Cement Sand,External,3,7,5
+343.84,Cement Sand,Both,1,9,6
+3339.35,Cement Sand,External,1,8,65
+1636.21,Gypsum,Internal,2,4,37
+367.8,Gypsum,Internal,1,2,15
+30.4,Cement Sand,Both,1,6,1
+576.77,Cement Sand,Internal,1,6,12
+439.24,Gypsum,External,4,10,6
+88.77,Cement Sand,Internal,1,19,1
+471.04,Gypsum,Both,3,10,6
+364.74,Cement Sand,External,2,2,31
+2489.43,Gypsum,External,7,14,30
+591.31,Gypsum,Internal,7,6,13
+577.72,Cement Sand,External,1,14,6
+115.06,Cement Sand,External,2,6,3
+2895.27,Cement Sand,Both,2,7,76
+122.6,Cement Sand,External,2,12,2
+608.47,Cement Sand,External,1,6,16
+468.46,Cement Sand,Internal,2,18,4
+341.45,Gypsum,Internal,1,19,1
+705.07,Gypsum,Internal,1,4,15
+426.85,Gypsum,Internal,2,8,5
+417.06,Cement Sand,Internal,3,10,6
+211.83,Cement Sand,Internal,1,3,9
+64.48,Cement Sand,Both,2,19,1
+61.23,Gypsum,Internal,2,10,1
+91.47,Cement Sand,Both,8,8,3
+601.68,Cement Sand,Internal,1,10,8
+92.81,Cement Sand,External,3,5,3
+118.97,Cement Sand,Internal,2,1,16
+2524.37,Gypsum,Internal,2,15,15
+20.25,Cement Sand,Both,1,5,1
+41.73,Cement Sand,Internal,2,7,1
+2190.24,Gypsum,Internal,1,10,18
+1893.96,Cement Sand,Internal,3,10,28
+133.84,Gypsum,Both,1,5,3
+755.53,Cement Sand,Internal,2,5,21
+685.4,Cement Sand,Internal,1,8,11
+495.6,Cement Sand,Internal,2,3,23
+2905.66,Gypsum,Internal,7,10,39
+167.96,Gypsum,Internal,2,10,2
+57.59,Cement Sand,Both,2,4,3
+3634.24,Gypsum,Internal,2,8,42
+384.57,Gypsum,External,3,2,24
+791.61,Cement Sand,Internal,1,5,20
+163.59,Cement Sand,Both,3,8,4
+59.41,Gypsum,Internal,8,5,2
+174.68,Cement Sand,External,1,5,5
+138.87,Cement Sand,Internal,1,8,2
+421.71,Cement Sand,Internal,1,19,3
+626.07,Cement Sand,External,2,8,13
+2300.44,Cement Sand,Internal,5,4,101
+2618.63,Cement Sand,Internal,2,3,120
+1224.17,Cement Sand,External,9,9,38
+278.41,Cement Sand,Both,5,11,6
+759.12,Gypsum,Both,7,8,17
+72.33,Gypsum,Both,8,1,14
+4703.43,Cement Sand,Internal,2,3,216
+3347.35,Cement Sand,Internal,4,19,29
+171.41,Cement Sand,Internal,3,11,2
+724.71,Gypsum,Internal,4,13,6
+2492.64,Gypsum,Internal,4,14,19
+2351.5,Gypsum,Both,7,9,46
+307.67,Cement Sand,Internal,3,4,12
+157.53,Gypsum,Internal,1,5,3
+27.13,Gypsum,Internal,1,13,1
+127.5,Cement Sand,External,2,8,3
+21.18,Gypsum,Internal,1,17,1
+2463.31,Gypsum,Internal,5,11,26
+1132.45,Cement Sand,Internal,9,7,36
+282.62,Cement Sand,Both,1,3,16
+33.13,Cement Sand,External,1,4,1
+417.94,Cement Sand,Internal,1,2,26
+34.04,Gypsum,Both,3,15,1
+533.32,Cement Sand,Internal,1,10,7
+596.95,Gypsum,External,5,10,9
+157.27,Cement Sand,External,1,8,3
+749.29,Cement Sand,Internal,1,1,94
+1402.75,Cement Sand,Internal,1,4,44
+512.76,Gypsum,External,5,14,5
+3845.84,Cement Sand,Both,2,8,88
+612.19,Cement Sand,Internal,2,6,14
+429.26,Cement Sand,Internal,1,7,8
+1557.49,Cement Sand,Internal,3,3,78
+1239.44,Cement Sand,External,1,2,97
+1370.21,Gypsum,External,1,1,143
+94.21,Cement Sand,Internal,4,5,3
+1675.96,Cement Sand,Both,1,4,70
+637.91,Cement Sand,External,10,15,13
+159.07,Gypsum,External,1,5,3
+367.13,Cement Sand,Both,1,8,8
+2456.32,Cement Sand,Internal,4,4,100
+93.33,Gypsum,Internal,10,7,2
+361.82,Gypsum,External,3,2,23
+1413.26,Gypsum,External,1,7,21
+103.74,Gypsum,Both,3,8,2
+78.48,Cement Sand,Internal,1,15,1
+116.93,Cement Sand,Internal,2,7,2
+2163.07,Cement Sand,External,1,6,56
+546.16,Cement Sand,Internal,3,10,8
+537.55,Cement Sand,Internal,1,14,5
+179.19,Gypsum,External,1,1,19
+4880.34,Cement Sand,Internal,1,10,61
+167.21,Cement Sand,Internal,1,3,7
+3379.2,Cement Sand,Internal,9,2,380
+328.9,Cement Sand,Internal,1,8,5
+1963.81,Cement Sand,Internal,1,13,19
+1120.51,Cement Sand,Both,2,18,11
+328.13,Gypsum,Internal,1,1,27
+564.67,Gypsum,External,1,1,59
+4991.1,Cement Sand,Internal,1,12,52
+1474.88,Gypsum,Internal,3,1,147
+623.32,Cement Sand,Both,1,10,10
+843.06,Gypsum,Internal,2,7,11
+86.52,Cement Sand,Both,9,11,2
+316.94,Cement Sand,Both,2,3,19
+1432.13,Cement Sand,Internal,4,3,78
+31.13,Cement Sand,Internal,1,8,1
+61.55,Cement Sand,Both,3,10,1
+115.26,Gypsum,Internal,2,13,1
+172.8,Cement Sand,Both,5,15,3
+550.27,Cement Sand,Internal,4,6,15
+3730.9,Cement Sand,Internal,1,8,58
+158.59,Cement Sand,External,1,5,5
+47.77,Gypsum,Both,3,5,1
+31.11,Cement Sand,Internal,1,10,1
+151.21,Cement Sand,Internal,3,9,3
+589.65,Gypsum,Both,3,5,16
+116.34,Cement Sand,Both,10,18,2
+196.2,Gypsum,External,2,7,3
+173.26,Cement Sand,External,5,2,19
+199.13,Cement Sand,Both,1,7,5
+141.16,Cement Sand,Both,1,14,2
+1063.31,Cement Sand,External,7,6,44
+60.83,Cement Sand,Both,1,18,1
+561.88,Cement Sand,External,2,3,32
+25.31,Cement Sand,External,2,11,1
+82.8,Gypsum,External,2,2,5
+43.92,Cement Sand,Internal,3,10,1
+670.16,Cement Sand,Both,1,14,8
+824.09,Cement Sand,Internal,1,11,9
+1701.28,Cement Sand,Internal,4,9,31
+61.12,Cement Sand,Internal,1,8,1
+2840.48,Cement Sand,Both,1,7,68
+371.31,Cement Sand,Internal,1,4,12
+106.56,Cement Sand,Internal,4,7,2
+78.42,Gypsum,External,4,3,4
+33.49,Cement Sand,Both,1,8,1
+1215.6,Gypsum,Internal,1,5,20
+1186.79,Gypsum,Internal,3,7,17
+89.32,Cement Sand,Internal,1,3,4
+1870.94,Gypsum,Both,4,14,19
+177.19,Cement Sand,External,1,13,2
+97.18,Cement Sand,Both,3,7,3
+108.14,Gypsum,Internal,4,9,1
+777.76,Cement Sand,Both,5,14,13
+540.26,Cement Sand,External,3,17,6
+167.86,Cement Sand,Both,4,4,9
+210.77,Cement Sand,Internal,2,7,4
+1492.68,Gypsum,Both,2,2,91
+745.61,Gypsum,Internal,3,6,12
+494.33,Cement Sand,External,4,9,11
+122,Gypsum,Internal,3,8,2
+98.98,Cement Sand,External,2,6,3
+683.79,Cement Sand,External,1,8,13
+1066.93,Cement Sand,External,4,10,22
+187.88,Cement Sand,Both,2,1,34
+303.36,Gypsum,Both,4,13,3
+583.36,Gypsum,Internal,3,7,8
+412.28,Gypsum,External,9,4,19
+2361.95,Cement Sand,External,1,10,37
+190.98,Gypsum,Both,1,19,1
+380.08,Cement Sand,External,2,5,13
+1128.59,Gypsum,External,2,3,43
+514.88,Cement Sand,Internal,3,7,11
+145.43,Gypsum,Internal,1,12,1
+39.54,Cement Sand,Both,1,10,1
+124.79,Cement Sand,Both,1,8,3
+1841.46,Gypsum,Internal,1,13,12
+57.35,Gypsum,Both,2,15,1
+427.5,Gypsum,Both,3,5,11
+54.09,Gypsum,External,1,8,1
+1714.42,Gypsum,Both,1,1,190
+26.96,Gypsum,Internal,1,15,1
+1394.54,Cement Sand,Internal,3,10,21
+43.13,Cement Sand,External,2,6,1
+278.01,Gypsum,Internal,7,18,2
+329.49,Gypsum,Internal,1,4,7
+184.5,Cement Sand,External,2,5,6
+126.65,Cement Sand,Internal,1,11,1
+189.06,Cement Sand,External,4,6,6
+693.85,Gypsum,Both,4,6,17
+713.66,Gypsum,External,3,5,18
+660.22,Cement Sand,External,5,1,144
+2878.41,Gypsum,Both,2,9,39
+121.85,Cement Sand,External,3,12,2
+1530.77,Cement Sand,External,3,8,36
+775.09,Cement Sand,External,1,15,8
+1299.64,Cement Sand,External,6,12,25
+571.58,Cement Sand,Internal,7,12,10
+4587.91,Cement Sand,Internal,1,20,29
+118.14,Cement Sand,Internal,1,6,2
+2106.85,Cement Sand,External,2,3,121
+2280.38,Gypsum,Internal,3,14,16
+257.79,Cement Sand,Internal,7,8,6
+77.16,Cement Sand,Internal,2,15,1
+907.41,Gypsum,Both,1,9,11
+3863.98,Gypsum,External,9,11,66
+693.51,Cement Sand,Internal,4,1,113
+235.94,Gypsum,Internal,4,4,6
+130.8,Gypsum,Both,1,7,2
+1751.67,Cement Sand,External,2,3,100
+129.96,Cement Sand,External,2,1,22
+131.1,Cement Sand,External,2,5,5
+153.42,Cement Sand,Internal,2,13,2
+332.66,Gypsum,Internal,2,1,30
+4654.63,Cement Sand,External,2,15,53
+333.21,Gypsum,External,1,10,3
+81.56,Gypsum,External,3,8,1
+322.42,Cement Sand,Internal,2,8,6
+349.11,Gypsum,Both,3,7,7
+425.46,Gypsum,Internal,4,10,5
+190.72,Cement Sand,Internal,1,7,3
+783.58,Cement Sand,External,1,11,11
+50.24,Cement Sand,Internal,1,15,1
+316.07,Gypsum,Internal,4,9,4
+1456.21,Cement Sand,External,1,7,33
+2014.98,Cement Sand,Both,5,3,157
+62.53,Cement Sand,Internal,1,3,3
+1389.68,Cement Sand,Internal,1,1,174
+172.67,Cement Sand,External,4,1,35
+1632.5,Gypsum,External,3,2,102
+106.73,Cement Sand,Internal,4,7,2
+2218.31,Gypsum,Internal,8,10,31
+725.34,Cement Sand,Both,2,5,27
+602.84,Gypsum,Internal,1,8,6
+755.76,Cement Sand,Both,1,7,18
+287.44,Cement Sand,External,2,11,4
+799.93,Cement Sand,Internal,1,1,100
+4267.77,Cement Sand,External,1,11,61
+3723.66,Gypsum,External,6,17,34
+368.75,Cement Sand,External,5,8,10
+117.73,Cement Sand,Internal,1,8,2
+3544.52,Cement Sand,External,1,8,69
+691.28,Gypsum,External,1,15,5
+608.51,Cement Sand,Internal,4,10,10
+565.68,Cement Sand,Internal,4,6,15
+2330.19,Cement Sand,Internal,1,6,49
+548.67,Cement Sand,Internal,10,9,14
+524.68,Gypsum,Internal,1,13,3
+674.74,Cement Sand,Both,4,10,15
+231.46,Gypsum,Internal,3,11,2
+91.13,Cement Sand,Internal,1,14,1
+653.72,Cement Sand,External,1,7,15
+503.87,Cement Sand,External,7,9,14
+143.46,Gypsum,Internal,1,1,12
+114.98,Gypsum,Both,1,13,1
+554.94,Cement Sand,Both,1,3,31
+83.47,Cement Sand,External,3,8,2
+470.33,Cement Sand,Internal,4,6,13
+309.2,Gypsum,Both,4,8,6
+49.1,Cement Sand,Internal,3,4,2
+146.21,Gypsum,Both,1,2,8
+2061.62,Cement Sand,Internal,2,10,28
+633.58,Cement Sand,External,3,7,17
+70.44,Gypsum,External,3,9,1
+1703.82,Cement Sand,Internal,2,8,29
+495.11,Gypsum,External,1,10,5
+116.14,Gypsum,Both,3,8,2
+554.9,Cement Sand,External,4,4,28
+507.22,Cement Sand,Internal,1,14,5
+521.39,Cement Sand,Both,1,10,9
+398.19,Gypsum,Internal,1,2,17
+249.92,Gypsum,Internal,1,13,2
+157.09,Cement Sand,Internal,2,13,2
+2199.53,Gypsum,Internal,3,3,73
+1015.44,Cement Sand,Both,2,1,186
+1642.4,Gypsum,Both,1,12,15
+204.96,Cement Sand,Both,2,2,19
+3020.72,Gypsum,Both,3,13,31
+4403.3,Gypsum,External,2,9,56
+1285.43,Cement Sand,External,3,2,121
+198.81,Cement Sand,External,1,1,31
+58.16,Cement Sand,Internal,1,15,1
+1756.47,Cement Sand,External,1,17,16
+60.8,Cement Sand,Internal,2,7,1
+640.87,Cement Sand,Internal,2,4,22
+261.21,Gypsum,Both,1,9,3
+176.36,Cement Sand,External,1,6,5
+444.68,Gypsum,Both,1,2,25
+121,Gypsum,External,2,9,2
+350.66,Gypsum,Both,2,6,7
+94.57,Cement Sand,Internal,2,8,2
+238.77,Gypsum,Internal,1,9,2
+156.68,Cement Sand,Internal,3,3,8
+586.68,Gypsum,External,8,7,15
+193.58,Gypsum,Internal,3,3,6
+3730.9,Cement Sand,Internal,2,3,171
+1698.95,Gypsum,Internal,3,8,21
+121.64,Gypsum,Both,6,4,5
+659.63,Gypsum,Both,3,2,44
+89.97,Gypsum,Internal,2,10,1
+3211.17,Cement Sand,Internal,7,4,161
+1864.26,Cement Sand,Internal,2,15,17
+97.97,Cement Sand,Both,2,10,2
+121.32,Cement Sand,Both,1,7,3
+70.41,Cement Sand,Internal,4,5,2
+420.15,Cement Sand,Internal,2,13,4
+2425.46,Gypsum,Internal,1,2,101
+758.44,Cement Sand,Internal,1,9,11
+381.97,Cement Sand,Internal,4,20,3
+181.38,Cement Sand,Internal,3,2,14
+102.28,Cement Sand,External,4,10,2
+361.3,Cement Sand,External,1,15,4
+4574.04,Cement Sand,Both,1,12,64
+42.69,Cement Sand,Internal,2,7,1
+1162.02,Cement Sand,Internal,10,7,39
+1271.37,Cement Sand,Internal,2,3,58
+1556.26,Gypsum,Internal,1,3,43
+30.26,Gypsum,Both,4,4,1
+930.3,Gypsum,Both,7,2,83
+3644.8,Gypsum,Internal,2,6,56
+573.91,Cement Sand,Internal,1,2,36
+523.5,Gypsum,Both,3,9,8
+638.33,Gypsum,Both,8,2,60
+812.39,Gypsum,Internal,1,1,68
+886,Cement Sand,Both,2,4,41
+1898.48,Gypsum,External,1,8,25
+1937.05,Cement Sand,External,1,1,303
+626.59,Cement Sand,Internal,5,4,27
+2629.02,Gypsum,Both,3,7,50
+1705.63,Gypsum,Internal,1,5,28
+284.74,Cement Sand,External,5,10,6
+112.55,Gypsum,Internal,3,1,11
+611.21,Cement Sand,External,1,4,24
+115.44,Cement Sand,External,8,7,4
+39.64,Cement Sand,Both,2,14,1
+623.89,Cement Sand,Internal,4,14,7
+1811.61,Cement Sand,Both,4,9,44
+120.09,Gypsum,External,1,19,1
+145.8,Cement Sand,Both,2,15,2
+411.69,Gypsum,External,3,7,7
+3289.55,Cement Sand,Internal,2,13,35
+120.49,Cement Sand,Both,3,7,3
+1343.14,Gypsum,Internal,1,15,7
+245.93,Gypsum,External,6,7,5
+462.49,Cement Sand,External,2,11,7
+1512.36,Gypsum,Both,2,2,92
+677.04,Gypsum,External,2,8,10
+161.02,Gypsum,External,8,6,5
+4738.91,Gypsum,Internal,3,7,68
+758.8,Cement Sand,External,1,2,59
+3182.81,Cement Sand,External,1,4,124
+692.39,Gypsum,External,1,10,7
+1779.07,Cement Sand,Both,1,10,30
+709.8,Gypsum,External,1,8,9
+150.27,Gypsum,Internal,4,19,1
+334.85,Cement Sand,External,1,10,5
+1185.62,Gypsum,External,1,13,10
+601.06,Cement Sand,Internal,4,9,11
+314.73,Cement Sand,Internal,1,7,6
+141.9,Gypsum,Both,2,8,2
+192.92,Cement Sand,Internal,3,1,29
+4858.55,Gypsum,Internal,1,5,81
+2487.86,Gypsum,Internal,5,5,58
+201.66,Gypsum,Internal,2,9,2
+2161.12,Cement Sand,Internal,2,6,50
+570.11,Cement Sand,Both,5,6,22
+992.66,Gypsum,External,1,10,10
+293.27,Cement Sand,Internal,2,15,3
+307.28,Gypsum,External,1,6,5
+336.21,Cement Sand,Internal,1,7,6
+174.43,Cement Sand,External,4,10,4
+738.18,Gypsum,Both,4,10,11
+917.09,Cement Sand,Internal,5,8,20
+1678.98,Gypsum,External,3,12,17
+114.06,Cement Sand,External,8,20,2
+2445.34,Cement Sand,Internal,3,5,73
+359.09,Cement Sand,Internal,9,14,6
+529.32,Cement Sand,Internal,1,3,22
+446.49,Cement Sand,Both,4,2,48
+123.46,Gypsum,Internal,2,4,3
+4543.36,Cement Sand,Both,3,2,454
+160.7,Gypsum,External,1,15,1
+1814.15,Cement Sand,External,3,18,19
+37.46,Cement Sand,Both,7,6,2
+712.96,Gypsum,Internal,3,4,18
+29.81,Gypsum,Internal,9,15,1
+46.27,Cement Sand,Internal,1,8,1
+434.35,Cement Sand,External,2,10,7
+64.76,Cement Sand,Internal,1,11,1
+27.71,Gypsum,Internal,1,10,1
+750.97,Cement Sand,Internal,1,5,19
+181.82,Cement Sand,Internal,3,5,5
+187.89,Cement Sand,Both,3,6,6
+172.68,Cement Sand,Internal,6,6,5
+69.04,Cement Sand,External,2,7,2
+73.4,Cement Sand,Internal,1,10,1
+143.37,Cement Sand,Internal,2,7,3
+122.41,Gypsum,Internal,2,3,4
+510.93,Cement Sand,Internal,1,3,21
+516.88,Cement Sand,Internal,1,7,9
+184.8,Cement Sand,Both,1,4,8
+170.74,Cement Sand,External,1,3,9
+48.55,Cement Sand,Both,2,18,1
+2388.51,Cement Sand,External,2,10,41
+55.66,Cement Sand,Internal,1,13,1
+194.87,Cement Sand,Internal,1,4,6
+687.66,Cement Sand,Internal,3,6,17
+2116.12,Cement Sand,Internal,1,10,26
+449.38,Cement Sand,Internal,1,5,11
+155.53,Gypsum,Both,4,10,2
+2336.85,Cement Sand,Internal,9,13,40
+412.14,Cement Sand,Both,6,5,21
+750.32,Gypsum,Internal,2,10,7
+267.32,Cement Sand,Internal,2,10,4
+908.2,Gypsum,Internal,2,3,28
+490.48,Cement Sand,Internal,1,19,3
+118.23,Cement Sand,Internal,2,13,1
+67.52,Cement Sand,External,1,15,1
+40.57,Cement Sand,External,2,12,1
+1497.7,Cement Sand,Internal,2,8,26
+1173.72,Cement Sand,Internal,3,2,88
+118.61,Cement Sand,Internal,2,2,8
+222.22,Cement Sand,Internal,3,9,4
+482.9,Gypsum,External,1,7,7
+211.64,Cement Sand,Internal,3,7,5
+188.77,Cement Sand,Internal,6,13,3
+66.35,Cement Sand,Internal,5,12,1
+246.48,Gypsum,Both,3,1,33
+270,Cement Sand,External,1,10,4
+2488.05,Cement Sand,External,10,1,739
+441.24,Cement Sand,Both,3,1,88
+80.66,Cement Sand,Internal,3,7,2
+424.14,Gypsum,Internal,3,3,14
+1309.69,Cement Sand,Both,3,6,44
+98.25,Cement Sand,Internal,2,7,2
+25.61,Gypsum,Internal,2,15,1
+595.52,Gypsum,Internal,1,1,50
+1367.31,Cement Sand,Both,3,11,25
+575.69,Cement Sand,Both,3,9,13
+718.79,Cement Sand,Internal,2,2,49
+4408.65,Cement Sand,External,2,20,38
+79.36,Cement Sand,External,1,6,2
+500.19,Cement Sand,Internal,1,9,7
+192.21,Cement Sand,External,1,7,4
+90.53,Cement Sand,Both,1,10,2
+86.07,Gypsum,Both,7,14,1
+319.37,Cement Sand,External,1,10,5
+2171.27,Cement Sand,Internal,3,4,81
+870.58,Gypsum,Internal,1,8,9
+462.57,Cement Sand,External,2,8,10
+2399.57,Gypsum,External,2,1,275
+2472.69,Cement Sand,Internal,2,5,68
+155.5,Cement Sand,External,2,3,9
+479.52,Cement Sand,Internal,1,15,4
+762.16,Cement Sand,Internal,2,11,10
+3822.65,Cement Sand,Internal,1,3,159
+429.01,Gypsum,Internal,1,7,5
+1725.37,Gypsum,External,3,10,22
+267.78,Cement Sand,External,2,9,5
+186.99,Cement Sand,Internal,6,1,35
+457.03,Cement Sand,External,4,9,10
+2249.88,Cement Sand,Internal,1,16,18
+33.23,Gypsum,Internal,7,8,1
+1285.35,Cement Sand,Internal,1,10,16
+146.5,Cement Sand,Internal,2,20,1
+441.47,Gypsum,Internal,4,1,48
+372.49,Cement Sand,Internal,8,12,7
+3439.81,Gypsum,External,1,15,24
+406.57,Cement Sand,Both,1,8,8
+222.7,Cement Sand,External,1,6,6
+808.2,Cement Sand,Internal,1,7,14
+204.79,Gypsum,External,1,4,5
+140.44,Cement Sand,Both,1,7,3
+358.43,Gypsum,External,2,4,10
+378.17,Cement Sand,Internal,2,6,9
+2061.77,Gypsum,Internal,1,8,21
+612.14,Cement Sand,Internal,3,2,46
+1424.88,Gypsum,Internal,5,7,24
+1134.14,Gypsum,Both,2,15,9
+175.31,Cement Sand,Internal,1,14,2
+336.31,Cement Sand,External,1,10,5
+260.82,Gypsum,External,2,9,3
+211.69,Cement Sand,Internal,1,8,3
+127.25,Cement Sand,Internal,3,9,2
+702.06,Cement Sand,External,2,1,121
+335.88,Gypsum,External,4,16,3
+598.51,Cement Sand,Internal,4,8,12
+172.89,Gypsum,Internal,1,10,1
+670.54,Gypsum,External,1,17,4
+422.19,Gypsum,External,1,13,3
+97.18,Cement Sand,Internal,2,7,2
+42.64,Gypsum,External,1,2,2
+1369.85,Gypsum,Internal,1,2,57
+2388.35,Cement Sand,Internal,1,5,60
+879.6,Cement Sand,Internal,6,9,18
+185.46,Cement Sand,Internal,3,13,2
+1696.6,Cement Sand,Both,3,9,38
+1502.98,Cement Sand,Internal,5,5,53
+199.16,Cement Sand,Both,1,4,8
+126.86,Gypsum,External,1,6,2
+1985.83,Cement Sand,Both,1,6,55
+789.34,Gypsum,Both,1,1,88
+2189.46,Cement Sand,Both,1,2,182
+123.8,Cement Sand,External,6,1,29
+20.69,Cement Sand,Both,3,7,1
+582.23,Cement Sand,Internal,6,8,14
+331.25,Gypsum,Internal,3,8,4
+153.14,Gypsum,Both,1,4,4
+123.57,Cement Sand,External,1,14,1
+596.88,Gypsum,Internal,2,6,9
+184.32,Cement Sand,Internal,3,7,4
+752.75,Cement Sand,Both,3,6,25
+307.28,Cement Sand,Internal,5,6,9
+169.75,Gypsum,External,3,12,2
+771.77,Cement Sand,Both,4,16,10
+382.78,Gypsum,External,3,7,7
+596.65,Cement Sand,Both,1,1,99
+2479.64,Cement Sand,Internal,1,7,44
+334.81,Gypsum,External,1,8,4
+1463.76,Gypsum,External,3,7,26
+136.21,Cement Sand,Internal,9,9,3
+4905.02,Gypsum,Both,1,3,182
+279.59,Gypsum,External,1,6,5
+1340.08,Cement Sand,External,2,7,33
+3416.34,Cement Sand,Internal,1,15,28
+199.17,Gypsum,Internal,1,6,3
+1119.05,Cement Sand,External,2,6,32
+21.03,Gypsum,External,6,16,1
+1277.36,Cement Sand,External,3,4,60
+1042.18,Cement Sand,Internal,1,15,9
+1320.08,Gypsum,Internal,1,11,10
+199.26,Cement Sand,Internal,3,12,2
+151.41,Gypsum,Both,1,6,3
+3893.3,Cement Sand,Internal,2,9,59
+210.92,Cement Sand,Both,7,6,9
+1491.99,Cement Sand,Internal,4,9,27
+1300.21,Cement Sand,Internal,2,7,26
+124.1,Cement Sand,Internal,5,10,2
+151.74,Gypsum,Internal,2,4,3
+697.75,Cement Sand,Internal,1,8,11
+84.88,Gypsum,External,1,7,1
+91.85,Cement Sand,Internal,1,9,1
+936.58,Cement Sand,Internal,1,3,39
+101.55,Cement Sand,Internal,1,4,3
+611.73,Gypsum,External,3,2,38
+85.91,Cement Sand,Internal,1,2,5
+42.14,Gypsum,Both,1,3,2
+219.34,Cement Sand,Internal,1,10,3
+334.33,Cement Sand,Internal,5,1,59
+189.05,Cement Sand,External,2,1,32
+112.88,Cement Sand,External,1,1,18
+1126.91,Cement Sand,Internal,1,12,12
+472.95,Cement Sand,Both,5,10,11
+2589.71,Cement Sand,External,4,9,58
+466.44,Gypsum,External,3,3,19
+137.79,Gypsum,Both,4,13,2
+361.3,Gypsum,Internal,1,7,4
+155.98,Cement Sand,Internal,2,2,11
+1542.89,Cement Sand,External,6,12,30
+337.5,Cement Sand,Internal,2,8,6
+99.16,Cement Sand,Internal,3,9,2
+93.31,Cement Sand,External,3,7,2
+158.55,Gypsum,Internal,1,9,1
+175.1,Gypsum,Internal,5,10,2
+105.66,Cement Sand,Both,1,10,2
+4715.78,Gypsum,Both,6,8,98
+530.36,Cement Sand,External,9,10,15
+3349.41,Gypsum,External,1,3,116
+582.4,Cement Sand,Internal,2,4,20
+345.73,Cement Sand,Internal,2,1,48
+467.27,Cement Sand,External,1,17,4
+967.67,Cement Sand,External,5,10,21
+127.35,Gypsum,Both,1,10,1
+338.9,Gypsum,External,6,8,7
+2980.91,Cement Sand,Internal,1,9,41
+91.17,Cement Sand,External,2,10,2
+89.96,Cement Sand,Both,3,8,2
+626.95,Cement Sand,Internal,2,7,12
+108.05,Cement Sand,External,3,7,3
+60.07,Gypsum,External,8,6,2
+184.08,Cement Sand,External,2,11,3
+52.15,Gypsum,Internal,3,8,1
+2360.55,Gypsum,Both,5,11,33
+377.46,Cement Sand,External,4,7,11
+465.22,Cement Sand,Internal,1,8,7
+317.68,Gypsum,Both,1,6,6
+1481.56,Cement Sand,Both,1,7,35
+132.65,Cement Sand,Internal,1,11,2
+2414.19,Cement Sand,Internal,4,13,30
+400.46,Cement Sand,Internal,4,4,16
+257.05,Cement Sand,Internal,1,3,11
+1827.04,Cement Sand,Both,1,14,22
+389.08,Gypsum,Both,2,7,7
+164.28,Gypsum,External,1,12,1
+58.65,Cement Sand,Both,1,4,2
+57.86,Gypsum,External,8,12,1
+681.8,Cement Sand,Internal,1,4,21
+1100.23,Cement Sand,Both,5,5,51
+286.1,Cement Sand,Both,2,9,6
+652.98,Cement Sand,Both,2,1,120
+84.31,Cement Sand,Internal,3,14,1
+120.95,Cement Sand,External,1,6,3
+679.71,Gypsum,External,5,4,25
+1625.99,Gypsum,Both,1,9,20
+147.43,Cement Sand,Internal,2,1,20
+367.21,Cement Sand,Internal,6,6,11
+23.16,Cement Sand,Internal,1,8,1
+132.16,Cement Sand,External,1,2,10
+799.39,Gypsum,Internal,1,10,7
+3906.46,Cement Sand,Internal,1,11,44
+463.33,Cement Sand,Internal,2,5,13
+151.37,Cement Sand,Internal,4,9,3
+27.11,Cement Sand,Internal,1,12,1
+555.65,Gypsum,Both,2,9,8
+458.08,Gypsum,Internal,2,8,5
+4415.23,Gypsum,Both,2,4,135
+171.76,Cement Sand,Internal,1,9,2
+602.16,Cement Sand,External,4,2,61
+2397.34,Gypsum,External,7,8,50
+387.12,Cement Sand,External,3,2,36
+1648.28,Gypsum,Internal,1,8,17
+367.22,Cement Sand,Internal,3,12,5
+446.85,Cement Sand,Internal,1,4,14
+704.52,Gypsum,Internal,2,7,9
+4477.75,Gypsum,External,5,8,82
+639.04,Cement Sand,External,1,13,8
+425.36,Cement Sand,External,3,6,13
+4588.33,Gypsum,External,4,15,41
+630.8,Gypsum,Both,1,3,23
+37.87,Cement Sand,Internal,2,3,2
+608.32,Cement Sand,Both,1,6,17
+314.96,Gypsum,Internal,2,8,4
+154.32,Gypsum,Internal,1,13,1
+54.41,Cement Sand,Both,8,10,2
+34.68,Cement Sand,Internal,1,6,1
+698.89,Gypsum,Internal,1,11,5
+2647.31,Cement Sand,External,4,4,134
+313.36,Cement Sand,Internal,1,8,5
+34.5,Cement Sand,Both,1,6,1
+3383.43,Gypsum,External,9,11,58
+1950.8,Gypsum,Internal,2,8,22
+1377.91,Cement Sand,Internal,2,7,27
+268.31,Cement Sand,Both,2,2,25
+132.59,Cement Sand,External,2,13,2
+621.07,Cement Sand,Internal,1,10,8
+1270.54,Gypsum,Both,1,14,10
+51.04,Cement Sand,Internal,1,6,1
+174.6,Cement Sand,Internal,2,11,2
+994.65,Gypsum,Both,1,10,11
+2435.62,Cement Sand,External,7,3,203
+566.34,Gypsum,External,3,15,5
+147.22,Cement Sand,Internal,3,4,6
+1203.1,Gypsum,Both,4,12,14
+403.57,Cement Sand,Internal,5,3,24
+1760.79,Gypsum,External,2,9,22
+64.36,Gypsum,Internal,2,6,1
+122.22,Gypsum,Internal,1,20,1
+203.65,Cement Sand,Internal,4,20,2
+27.3,Gypsum,Both,4,3,1
+180.79,Cement Sand,Internal,1,8,3
+76.13,Cement Sand,Both,2,9,2
+28.34,Cement Sand,Internal,4,15,1
+35.85,Cement Sand,External,1,10,1
+2044.17,Cement Sand,Internal,2,10,28
+3978.8,Cement Sand,External,5,8,109
+2228.27,Gypsum,Internal,1,3,62
+321.93,Cement Sand,External,2,4,14
+679.01,Gypsum,External,1,4,18
+176.31,Cement Sand,Both,2,5,6
+386.15,Gypsum,External,1,3,13
+160.08,Gypsum,Internal,2,10,1
+95.91,Cement Sand,Both,2,6,3
+161.58,Gypsum,External,2,3,6
+242.05,Gypsum,External,3,6,5
+173.39,Cement Sand,Both,6,14,3
+116.79,Cement Sand,Both,6,3,10
+483.33,Cement Sand,Internal,1,1,60
+3467.94,Gypsum,Both,3,10,46
+4074.1,Cement Sand,External,6,7,136
+607.43,Cement Sand,Internal,1,3,25
+512.77,Gypsum,Both,2,6,10
+350.41,Cement Sand,Both,2,4,16
+2298.89,Cement Sand,Both,2,5,84
+956.66,Cement Sand,Both,7,9,28
+169.16,Cement Sand,Internal,3,14,2
+139.14,Cement Sand,Internal,3,3,7
+698.37,Gypsum,Both,2,2,43
+301.81,Cement Sand,External,6,16,4
+564.46,Cement Sand,Both,5,7,19
+2041.5,Gypsum,Internal,3,12,17
+1025.53,Cement Sand,External,1,5,32
+3698.84,Cement Sand,External,3,10,69
+672.94,Cement Sand,Both,1,4,28
+280.43,Gypsum,Internal,4,5,6
+196.94,Gypsum,External,7,3,11
+154.02,Gypsum,Both,1,6,3
+442.19,Cement Sand,Both,2,14,6
+24.91,Cement Sand,External,8,1,7
+82.49,Cement Sand,Both,4,8,2
+87.69,Cement Sand,Both,2,19,1
+146.34,Cement Sand,External,3,7,4
+201.1,Gypsum,Internal,2,1,18
+295.83,Cement Sand,External,8,10,8
+2299.23,Cement Sand,Both,1,12,32
+797.71,Gypsum,Both,1,5,18
+535.37,Cement Sand,Both,1,9,10
+675.56,Gypsum,Internal,3,8,8
+117.2,Gypsum,Both,3,11,1
+111.26,Cement Sand,External,3,2,10
+427.91,Gypsum,Internal,1,19,2
+229.19,Cement Sand,Both,1,12,3
+126.39,Cement Sand,External,1,5,4
+1374.46,Gypsum,External,2,15,10
+191.24,Gypsum,External,2,3,7

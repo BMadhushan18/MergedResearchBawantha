@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Floor Plan Surface Detection</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0f0f13;
+      color: #e0e0e0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 24px 16px;
+    }
+
+    h1 { font-size: 1.6rem; font-weight: 600; margin-bottom: 6px; color: #fff; }
+    .subtitle { font-size: 0.88rem; color: #666; margin-bottom: 24px; text-align: center; }
+
+    .controls {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 14px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .btn {
+      padding: 9px 20px;
+      border: none;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      font-weight: 500;
+      transition: opacity 0.15s, transform 0.1s;
+    }
+    .btn:active { transform: scale(0.97); }
+    .btn:disabled { opacity: 0.35; cursor: not-allowed; }
+    .btn-primary { background: #4f8ef7; color: #fff; }
+    .btn-success { background: #34c759; color: #fff; }
+    .btn-warning { background: #ff9500; color: #fff; }
+    .btn-ghost   { background: #2a2a35; color: #aaa; }
+
+    /* Drop zone */
+    #dropZone {
+      width: 100%; max-width: 980px;
+      min-height: 180px;
+      border: 2px dashed #333;
+      border-radius: 12px;
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      gap: 8px; color: #555; cursor: pointer;
+      transition: border-color 0.2s, background 0.2s;
+      margin-bottom: 16px; padding: 32px;
+    }
+    #dropZone.drag-over { border-color: #4f8ef7; background: #1a1a2a; }
+    #dropZone.hidden    { display: none; }
+    .drop-icon { font-size: 2.2rem; }
+
+    /* Canvas stack */
+    #canvasWrapper {
+      position: relative;
+      width: 100%; max-width: 980px;
+      display: none; margin-bottom: 8px;
+    }
+    #canvas {
+      width: 100%; height: auto;
+      border-radius: 10px; display: block;
+    }
+    #selCanvas {
+      position: absolute; top: 0; left: 0;
+      width: 100%; height: 100%;
+      border-radius: 10px; cursor: crosshair;
+    }
+    #selCanvas.view-mode { cursor: default; }
+
+    /* Hint */
+    #hint {
+      width: 100%; max-width: 980px;
+      font-size: 0.82rem; color: #555;
+      margin-bottom: 14px; text-align: center; min-height: 18px;
+    }
+
+    /* Spinner */
+    #spinner {
+      display: none; margin-top: 10px;
+      font-size: 0.9rem; color: #888;
+      align-items: center; gap: 10px;
+    }
+    .spin {
+      width: 20px; height: 20px;
+      border: 3px solid #333; border-top-color: #4f8ef7;
+      border-radius: 50%; animation: spin 0.7s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Error */
+    #error {
+      width: 100%; max-width: 980px;
+      margin-top: 10px; background: #2d1a1a;
+      border: 1px solid #7f2020; border-radius: 8px;
+      padding: 12px 16px; color: #f08080;
+      font-size: 0.88rem; display: none;
+    }
+
+    /* Results panel */
+    #results {
+      width: 100%; max-width: 980px;
+      margin-top: 16px; display: none;
+    }
+
+    .results-title {
+      font-size: 1rem; font-weight: 600; color: #fff; margin-bottom: 12px;
+    }
+
+    .legend {
+      display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 14px;
+    }
+
+    .legend-item {
+      display: flex; align-items: center; gap: 7px;
+      background: #1a1a24; border-radius: 8px;
+      padding: 7px 14px; font-size: 0.85rem;
+    }
+
+    .legend-dot {
+      width: 12px; height: 12px; border-radius: 3px; flex-shrink: 0;
+    }
+
+    .object-list {
+      display: flex; flex-wrap: wrap; gap: 8px;
+    }
+
+    .object-chip {
+      padding: 4px 12px; border-radius: 20px;
+      font-size: 0.82rem; color: #fff; font-weight: 500;
+    }
+
+    /* Class selector */
+    .class-selector {
+      display: none;
+      gap: 8px;
+      margin-bottom: 14px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .class-selector.visible { display: flex; }
+
+    .cls-btn {
+      padding: 8px 22px;
+      border: 2px solid transparent;
+      border-radius: 20px;
+      font-size: 0.88rem;
+      font-weight: 600;
+      cursor: pointer;
+      background: #1e1e28;
+      color: #666;
+      transition: all 0.15s;
+    }
+    .cls-btn:hover { color: #ccc; border-color: #444; }
+    .cls-btn.active {
+      color: #fff;
+      border-color: var(--cls-color);
+      background: color-mix(in srgb, var(--cls-color) 20%, #0f0f13);
+      box-shadow: 0 0 10px color-mix(in srgb, var(--cls-color) 40%, transparent);
+    }
+
+    #fileInput { display: none; }
+  </style>
+</head>
+<body>
+
+  <h1>Floor Plan Surface Detection</h1>
+  <p class="subtitle">
+    Upload a floor plan image · draw a selection · click Detect to find walls, windows &amp; doors
+  </p>
+
+  <div class="controls">
+    <button class="btn btn-primary" onclick="document.getElementById('fileInput').click()">Upload Image</button>
+    <button class="btn btn-warning" id="selectBtn"   onclick="enterSelectMode()" disabled>Draw Selection</button>
+    <button class="btn btn-ghost"   id="clearSelBtn" onclick="clearSelection()"  disabled>Clear Selection</button>
+    <button class="btn btn-success" id="detectBtn"   onclick="detect()"          disabled>Detect</button>
+    <button class="btn btn-ghost"   id="resetBtn"    onclick="resetAll()" style="display:none">Reset</button>
+  </div>
+
+  <!-- Class selector buttons -->
+  <div class="class-selector" id="classSelector">
+    <button class="cls-btn active" id="cls-window" style="--cls-color:#007AFF" onclick="setActiveClass('window')">Window</button>
+    <button class="cls-btn"        id="cls-door"   style="--cls-color:#34C759" onclick="setActiveClass('door')">Door</button>
+    <button class="cls-btn"        id="cls-wall"   style="--cls-color:#FF3B30" onclick="setActiveClass('wall')">Wall</button>
+  </div>
+
+  <div id="hint">Upload an image to begin.</div>
+  <input type="file" id="fileInput" accept="image/*" onchange="onFileSelected(event)" />
+
+  <div id="dropZone"
+       onclick="document.getElementById('fileInput').click()"
+       ondragover="onDragOver(event)"
+       ondragleave="onDragLeave()"
+       ondrop="onDrop(event)">
+    <div class="drop-icon">🏠</div>
+    <div>Click to upload or drag &amp; drop a floor plan image</div>
+    <div style="font-size:0.8rem;color:#444">PNG · JPG · WEBP</div>
+  </div>
+
+  <div id="canvasWrapper">
+    <canvas id="canvas"></canvas>
+    <canvas id="selCanvas" class="view-mode"></canvas>
+  </div>
+
+  <div id="spinner"><div class="spin"></div> Analysing with Roboflow model…</div>
+  <div id="error"></div>
+
+  <div id="results">
+    <div class="results-title" id="resultsTitle"></div>
+    <div class="legend" id="legend"></div>
+    <div class="object-list" id="objectList"></div>
+  </div>
+
+<script>
+  // Class → color mapping
+  const CLASS_COLORS = {
+    wall:    '#FF3B30',
+    window:  '#007AFF',
+    door:    '#34C759',
+    room:    '#FF9500',
+    stairs:  '#AF52DE',
+    default: '#FF2D55',
+  };
+
+  function classColor(cls) {
+    return CLASS_COLORS[cls.toLowerCase()] || CLASS_COLORS.default;
+  }
+
+  const canvas    = document.getElementById('canvas');
+  const ctx       = canvas.getContext('2d');
+  const selCanvas = document.getElementById('selCanvas');
+  const selCtx    = selCanvas.getContext('2d');
+
+  let uploadedFile       = null;
+  let originalImage      = null;
+  let allDetectedObjects = [];   // accumulates across ALL selections and ALL classes
+  let activeClass        = 'window';
+  let selectMode         = false;
+  let selecting      = false;
+  let dragStart      = null;
+  let sel            = null;   // { x, y, w, h } in image pixels
+
+  // ---- File handling ----
+
+  function onFileSelected(e) { const f = e.target.files[0]; if (f) loadFile(f); }
+  function onDragOver(e)     { e.preventDefault(); document.getElementById('dropZone').classList.add('drag-over'); }
+  function onDragLeave()     { document.getElementById('dropZone').classList.remove('drag-over'); }
+  function onDrop(e) {
+    e.preventDefault();
+    document.getElementById('dropZone').classList.remove('drag-over');
+    const f = e.dataTransfer.files[0];
+    if (f && f.type.startsWith('image/')) loadFile(f);
+  }
+
+  function loadFile(file) {
+    uploadedFile = file;
+    sel = null;
+    allDetectedObjects = [];
+    hideError(); hideResults();
+
+    const img = new Image();
+    img.onload = () => {
+      originalImage = img;
+      canvas.width    = img.naturalWidth;
+      canvas.height   = img.naturalHeight;
+      selCanvas.width  = img.naturalWidth;
+      selCanvas.height = img.naturalHeight;
+      ctx.drawImage(img, 0, 0);
+
+      document.getElementById('dropZone').classList.add('hidden');
+      document.getElementById('canvasWrapper').style.display = 'block';
+      document.getElementById('classSelector').classList.add('visible');
+      document.getElementById('detectBtn').disabled   = false;
+      document.getElementById('selectBtn').disabled   = false;
+      document.getElementById('resetBtn').style.display = 'inline-block';
+      setHint('Select object type above, draw a selection, then click Detect.');
+    };
+    img.src = URL.createObjectURL(file);
+  }
+
+  // ---- Selection ----
+
+  function enterSelectMode() {
+    selectMode = true;
+    selCanvas.classList.remove('view-mode');
+    setHint('Click and drag on the image to select the area you want to analyse.');
+  }
+
+  function clearSelection() {
+    sel = null;
+    selCtx.clearRect(0, 0, selCanvas.width, selCanvas.height);
+    document.getElementById('clearSelBtn').disabled = true;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.drawImage(originalImage, 0, 0);
+    hideResults();
+    setHint('Selection cleared. Draw a new selection or detect on the full image.');
+  }
+
+  function exitSelectMode() {
+    selectMode = false;
+    selCanvas.classList.add('view-mode');
+  }
+
+  function eventToCanvas(e) {
+    const rect = selCanvas.getBoundingClientRect();
+    return {
+      x: (e.clientX - rect.left)  * (selCanvas.width  / rect.width),
+      y: (e.clientY - rect.top)   * (selCanvas.height / rect.height),
+    };
+  }
+
+  selCanvas.addEventListener('mousedown', e => {
+    if (!selectMode) return;
+    dragStart = eventToCanvas(e);
+    selecting = true;
+  });
+
+  selCanvas.addEventListener('mousemove', e => {
+    if (!selecting || !dragStart) return;
+    drawSelRect(dragStart, eventToCanvas(e), false);
+  });
+
+  selCanvas.addEventListener('mouseup', e => {
+    if (!selecting || !dragStart) return;
+    selecting = false;
+    const pos = eventToCanvas(e);
+    const w = Math.abs(pos.x - dragStart.x);
+    const h = Math.abs(pos.y - dragStart.y);
+    if (w < 10 || h < 10) { selCtx.clearRect(0,0,selCanvas.width,selCanvas.height); dragStart=null; return; }
+    sel = {
+      x: Math.round(Math.min(dragStart.x, pos.x)),
+      y: Math.round(Math.min(dragStart.y, pos.y)),
+      w: Math.round(w), h: Math.round(h),
+    };
+    drawSelRect(dragStart, pos, true);
+    document.getElementById('clearSelBtn').disabled = false;
+    exitSelectMode();
+    setHint(`Selection set (${sel.w}×${sel.h} px). Click Detect to analyse the selected area.`);
+    dragStart = null;
+  });
+
+  // Touch
+  selCanvas.addEventListener('touchstart',  e => { e.preventDefault(); selCanvas.dispatchEvent(new MouseEvent('mousedown', toMouse(e))); }, {passive:false});
+  selCanvas.addEventListener('touchmove',   e => { e.preventDefault(); selCanvas.dispatchEvent(new MouseEvent('mousemove', toMouse(e))); }, {passive:false});
+  selCanvas.addEventListener('touchend',    e => { e.preventDefault(); selCanvas.dispatchEvent(new MouseEvent('mouseup',   toMouse(e))); }, {passive:false});
+  function toMouse(e) { const t = e.touches[0]||e.changedTouches[0]; return {clientX:t.clientX,clientY:t.clientY}; }
+
+  function drawSelRect(start, end, final) {
+    selCtx.clearRect(0, 0, selCanvas.width, selCanvas.height);
+    const x = Math.min(start.x, end.x), y = Math.min(start.y, end.y);
+    const w = Math.abs(end.x - start.x), h = Math.abs(end.y - start.y);
+
+    // Dim outside
+    selCtx.fillStyle = 'rgba(0,0,0,0.45)';
+    selCtx.fillRect(0, 0, selCanvas.width, selCanvas.height);
+    selCtx.clearRect(x, y, w, h);
+
+    selCtx.strokeStyle = final ? '#ff9500' : '#ffcc00';
+    selCtx.lineWidth = Math.max(2, selCanvas.width / 500);
+    selCtx.setLineDash(final ? [] : [8, 4]);
+    selCtx.strokeRect(x, y, w, h);
+    selCtx.setLineDash([]);
+
+    if (final) {
+      const hs = Math.max(8, selCanvas.width / 120);
+      selCtx.fillStyle = '#ff9500';
+      [[x,y],[x+w,y],[x,y+h],[x+w,y+h]].forEach(([cx,cy]) => selCtx.fillRect(cx-hs/2,cy-hs/2,hs,hs));
+    }
+  }
+
+  // ---- Detection ----
+
+  async function detect() {
+    if (!uploadedFile) return;
+    showSpinner(true); hideError(); hideResults();
+    document.getElementById('detectBtn').disabled = true;
+
+    try {
+      const fd = new FormData();
+      fd.append('file', uploadedFile);
+      fd.append('class_filter', activeClass);
+      if (sel) {
+        fd.append('sel_x', sel.x);
+        fd.append('sel_y', sel.y);
+        fd.append('sel_w', sel.w);
+        fd.append('sel_h', sel.h);
+      }
+
+      const resp = await fetch('/detect', { method: 'POST', body: fd });
+      if (!resp.ok) {
+        const err = await resp.json().catch(() => ({detail: resp.statusText}));
+        throw new Error(err.detail || 'Server error');
+      }
+
+      const data = await resp.json();
+      drawResults(data);
+
+    } catch (err) {
+      showError('Detection failed: ' + err.message);
+    } finally {
+      showSpinner(false);
+      document.getElementById('detectBtn').disabled = false;
+    }
+  }
+
+  // Switch active class — immediately refilters the view from stored detections
+  function setActiveClass(cls) {
+    activeClass = cls;
+    ['window','door','wall'].forEach(c => {
+      document.getElementById(`cls-${c}`).classList.toggle('active', c === cls);
+    });
+    redrawAll();
+    const count = allDetectedObjects.filter(o => o.class.toLowerCase() === cls).length;
+    setHint(`Showing ${count} detected ${cls}${count !== 1 ? 's' : ''}. Draw a selection and click Detect to find more.`);
+  }
+
+  function redrawAll() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.drawImage(originalImage, 0, 0);
+
+    // Only draw objects matching the active class
+    allDetectedObjects
+      .filter(o => o.class.toLowerCase() === activeClass)
+      .forEach(obj => {
+        const color  = classColor(obj.class);
+        const points = obj.points;
+        if (!points || points.length < 2) return;
+
+        ctx.beginPath();
+        ctx.moveTo(points[0][0], points[0][1]);
+        for (let k = 1; k < points.length; k++) ctx.lineTo(points[k][0], points[k][1]);
+        ctx.closePath();
+
+        ctx.fillStyle   = color + '44';
+        ctx.fill();
+        ctx.strokeStyle = color;
+        ctx.lineWidth   = Math.max(2, canvas.width / 350);
+        ctx.lineJoin    = 'round';
+        ctx.stroke();
+      });
+  }
+
+  function drawResults(data) {
+    if (data.object_count === 0) {
+      showError(`No ${activeClass}s detected in this area. Try another selection.`);
+      return;
+    }
+
+    // Append new detections to the running list (all classes stored together)
+    allDetectedObjects.push(...data.objects);
+
+    // Redraw original + ALL accumulated highlights
+    redrawAll();
+
+    // Clear the selection box overlay
+    selCtx.clearRect(0, 0, selCanvas.width, selCanvas.height);
+    sel = null;
+    document.getElementById('clearSelBtn').disabled = true;
+
+    showResults(data);
+  }
+
+  // ---- UI helpers ----
+
+  function showResults(data) {
+    const scope = data.selection ? 'inside selection' : 'in full image';
+    document.getElementById('resultsTitle').textContent =
+      `${data.object_count} object${data.object_count !== 1 ? 's' : ''} detected ${scope}`;
+
+    // Build legend from unique classes
+    const classes = [...new Set(data.objects.map(o => o.class))];
+    document.getElementById('legend').innerHTML = classes.map(cls => `
+      <div class="legend-item">
+        <div class="legend-dot" style="background:${classColor(cls)}"></div>
+        <span>${cls}</span>
+      </div>
+    `).join('');
+
+    // Chips for each detected object
+    document.getElementById('objectList').innerHTML = data.objects.map((o, i) => `
+      <span class="object-chip" style="background:${classColor(o.class)}">
+        ${o.class} ${Math.round(o.confidence * 100)}%
+      </span>
+    `).join('');
+
+    document.getElementById('results').style.display = 'block';
+  }
+
+  function hideResults() { document.getElementById('results').style.display = 'none'; }
+  function hideError()   { document.getElementById('error').style.display = 'none'; }
+  function showError(m)  { const el = document.getElementById('error'); el.textContent = m; el.style.display = 'block'; }
+  function showSpinner(s){ document.getElementById('spinner').style.display = s ? 'flex' : 'none'; }
+  function setHint(m)    { document.getElementById('hint').textContent = m; }
+
+  function resetAll() {
+    uploadedFile = null; originalImage = null; allDetectedObjects = [];
+    activeClass = 'window';
+    sel = null; selecting = false; selectMode = false; dragStart = null;
+    canvas.width = 0; canvas.height = 0;
+    selCanvas.width = 0; selCanvas.height = 0;
+    selCanvas.classList.add('view-mode');
+    document.getElementById('canvasWrapper').style.display = 'none';
+    document.getElementById('classSelector').classList.remove('visible');
+    document.getElementById('dropZone').classList.remove('hidden');
+    document.getElementById('detectBtn').disabled    = true;
+    document.getElementById('selectBtn').disabled    = true;
+    document.getElementById('clearSelBtn').disabled  = true;
+    document.getElementById('resetBtn').style.display = 'none';
+    document.getElementById('fileInput').value = '';
+    // Reset active class button styles
+    ['window','door','wall'].forEach(c => {
+      document.getElementById(`cls-${c}`).classList.toggle('active', c === 'window');
+    });
+    hideResults(); hideError();
+    setHint('Upload an image to begin.');
+  }
+</script>
+</body>
+</html>

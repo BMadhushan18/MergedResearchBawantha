@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>3D Column Visualization</title>
+    <style>
+        html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script>
+        const columns = [{"x": 25.74, "z": 12.29}, {"x": 21.47, "z": 12.23}, {"x": 16.24, "z": 12.17}, {"x": 13.4, "z": 12.14}, {"x": 9.02, "z": 12.05}, {"x": 6.29, "z": 11.98}, {"x": 1.49, "z": 11.89}, {"x": 13.38, "z": 9.76}, {"x": 8.93, "z": 8.56}, {"x": 25.99, "z": 7.57}, {"x": 21.57, "z": 6.82}, {"x": 6.14, "z": 6.79}, {"x": 1.29, "z": 6.75}, {"x": 16.07, "z": 5.82}, {"x": 13.27, "z": 5.21}, {"x": 8.8, "z": 4.09}, {"x": 5.98, "z": 3.36}, {"x": 1.04, "z": 2.13}];
+
+        const scene = new THREE.Scene();
+        scene.background = new THREE.Color(0xf0f0f0);
+
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        camera.position.set(50, 50, 50);
+
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+
+        const ambientLight = new THREE.AmbientLight(0x404040, 0.6);
+        scene.add(ambientLight);
+
+        const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
+        directionalLight.position.set(50, 50, 25);
+        scene.add(directionalLight);
+
+        const planeGeometry = new THREE.PlaneGeometry(200, 200);
+        const planeMaterial = new THREE.MeshLambertMaterial({ color: 0xcccccc });
+        const plane = new THREE.Mesh(planeGeometry, planeMaterial);
+        plane.rotation.x = -Math.PI / 2;
+        plane.position.y = 0;
+        scene.add(plane);
+
+        const gridHelper = new THREE.GridHelper(200, 20, 0x888888, 0xcccccc);
+        scene.add(gridHelper);
+
+        const columnGeometry = new THREE.BoxGeometry(2, 15, 2);
+        const columnMaterial = new THREE.MeshLambertMaterial({ color: 0x666666 });
+
+        columns.forEach((c) => {
+            const mesh = new THREE.Mesh(columnGeometry, columnMaterial);
+            mesh.position.set(c.x, 7.5, c.z);
+            scene.add(mesh);
+        });
+
+        function onWindowResize() {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        }
+        window.addEventListener('resize', onWindowResize);
+
+        function animate() {
+            requestAnimationFrame(animate);
+            camera.lookAt(0, 0, 0);
+            renderer.render(scene, camera);
+        }
+        animate();
+    </script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Environment and local config
+.env
+.env.*
+
+# IDE and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Runtime output
+*.log
+tmp/
+temp/
+
+# Local ML artifacts
+ml_models/*.pkl
+ml_models/*.joblib
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Gemini AI context
+.gemini/

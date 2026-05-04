@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "C:\MergedResearch\Research_Project_Backend\IT22574718_Backend\IT22574718_Backend\app.py", line 71, in <module>
+    foundation_service = FoundationDurationService(FOUNDATION_MODEL_PATH)
+  File "C:\MergedResearch\Research_Project_Backend\IT22574718_Backend\IT22574718_Backend\service\duration_service.py", line 9, in __init__
+    self.model = joblib.load(model_path)
+  File "C:\Users\Gayantha\AppData\Local\Programs\Python\Python310\lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+  File "C:\Users\Gayantha\AppData\Local\Programs\Python\Python310\lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+  File "C:\Users\Gayantha\AppData\Local\Programs\Python\Python310\lib\pickle.py", line 1213, in load
+    dispatch[key[0]](self)
+  File "C:\Users\Gayantha\AppData\Local\Programs\Python\Python310\lib\pickle.py", line 1538, in load_stack_global
+    self.append(self.find_class(module, name))
+  File "C:\Users\Gayantha\AppData\Local\Programs\Python\Python310\lib\pickle.py", line 1580, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'xgboost'
